@@ -1,0 +1,76 @@
+{
+  "scene": "Beach parking area - VLADIMIR'S ENTRANCE",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Low angle - sedan chair emerging from vehicle",
+    "movement": "Pull back to reveal Vladimir's enormity",
+    "ends": "Medium shot - Vladimir eating and speaking",
+    "style": "Villain introduction, comedic and menacing"
+  },
+  
+  "environment": {
+    "primary_location": "Beach parking area",
+    "key_elements": [
+      "Large black SUV with open doors",
+      "Ornate golden sedan chair",
+      "Four struggling carriers",
+      "Morning sun creating shadows"
+    ]
+  },
+  
+  "character": {
+    "SEÑOR_VLADIMIR": {
+      "description": "Mysterious crime boss and aikido master",
+      "physique": "400+ pounds of hidden power",
+      "wardrobe": "White linen suit (XXXL), gold chains, panama hat",
+      "appearance": "OBVIOUSLY PAINTED-ON BLACK HAIR, thin mustache",
+      "eating": "CONSTANTLY eating whole roasted chicken",
+      "quirk": "Speaks with mouth always full",
+      "voice": "DEEP ACCENTED VOICE, mouth full of food"
+    },
+    "CARRIERS": {
+      "description": "Four strong men in black tactical gear",
+      "action": "STRUGGLING with Vladimir's weight",
+      "wardrobe": "All black tactical uniforms"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "Sedan chair emerges from SUV, four men struggling to lift it",
+      "audio": "Men grunting with effort",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:02:00",
+      "visual": "Chair turns, revealing VLADIMIR eating entire roasted chicken",
+      "audio": "Eating sounds, chair creaking",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:04:00",
+      "visual": "VLADIMIR takes massive bite, grease on chin, painted hair visible",
+      "audio": "Vladimir chewing and speaking",
+      "dialogue": "[VLADIMIR SPEAKING]: Where is this soldier boy Rex?",
+      "voice_type": "ACCENTED DEEP VOICE, mouth full"
+    },
+    {
+      "timecode": "00:00:06:00",
+      "visual": "VLADIMIR gestures lazily with chicken leg, carriers struggle forward",
+      "audio": "Vladimir speaking with mouth full",
+      "dialogue": "[VLADIMIR SPEAKING]: Time to collect what he owes me.",
+      "voice_type": "ACCENTED VOICE, food in mouth"
+    }
+  ],
+  
+  "visual_requirements": [
+    "Vladimir NEVER stops eating",
+    "Painted hair OBVIOUSLY fake",
+    "Carriers struggling with weight",
+    "Vladimir is main focus",
+    "Chicken grease visible on face",
+    "ONLY VLADIMIR speaks"
+  ]
+}

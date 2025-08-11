@@ -1,0 +1,70 @@
+{
+  "scene": "Muscle Beach outdoor gym - Venice Beach - 1987 DAWN",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Low angle hero shot - sun rising behind Rex",
+    "movement": "Slow circular dolly around Rex working out",
+    "ends": "Medium shot as Rex notices something off-screen",
+    "style": "Golden hour worship shots"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "key_elements": [
+      "Pull-up bars",
+      "Concrete weights",
+      "American flag on lifeguard tower",
+      "Golden sunrise over ocean",
+      "Empty beach, peaceful morning"
+    ]
+  },
+  
+  "character": {
+    "REX_THUNDER_ARMSTRONG": {
+      "description": "6'3\" Delta Force veteran",
+      "age": "38, trying to live civilian life",
+      "physique": "245 lbs of military muscle",
+      "wardrobe": "Army PT shorts, dog tags, no shirt, red bandana",
+      "appearance": "Military flat-top, square jaw, stubble",
+      "skin": "Bronzed and GLISTENING with sweat",
+      "voice": "DEEP MALE MILITARY VOICE"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "REX doing one-arm pull-ups, dog tags swinging, muscles glistening in sunrise",
+      "audio": "Grunting, ocean waves",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:03:00",
+      "visual": "REX switches to one-arm push-ups, sweat dripping",
+      "audio": "Heavy breathing, waves",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:05:00",
+      "visual": "REX stands, grabs water bottle, talks to himself",
+      "audio": "Rex speaking to himself",
+      "dialogue": "[REX SPEAKING]: Three years retired. Three years of peace.",
+      "voice_type": "DEEP MILITARY VOICE, satisfied"
+    },
+    {
+      "timecode": "00:00:07:00",
+      "visual": "REX hears engines, head snaps toward sound, muscles tense",
+      "audio": "Distant engine sounds approaching",
+      "dialogue": "NO DIALOGUE"
+    }
+  ],
+  
+  "visual_requirements": [
+    "Rex muscles GLISTENING throughout",
+    "Golden sunrise lighting",
+    "American flag visible",
+    "Rex is ONLY character on screen",
+    "Beach is completely empty"
+  ]
+}

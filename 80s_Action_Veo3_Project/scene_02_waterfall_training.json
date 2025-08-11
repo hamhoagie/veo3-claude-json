@@ -1,0 +1,155 @@
+{
+  "scene": "Hidden waterfall training ground - Colombian jungle - 1987 DAWN",
+  
+  "camera_position": {
+    "starts": "Helicopter shot descending through mist",
+    "movement": "Slow push through waterfall spray",
+    "ends": "Circling the two warriors in combat",
+    "style": "Everything is WET and GLISTENING"
+  },
+  
+  "environment": {
+    "primary_location": "Secret waterfall dojo in jungle",
+    "view": "50-foot waterfall crashing onto rocks",
+    "lighting": "Golden dawn light through mist creating RAINBOWS",
+    "atmosphere": "Mystical, primal, unnecessarily erotic",
+    "details": [
+      "Tropical birds for ambiance",
+      "Mist creating permanent rainbow",
+      "Conveniently flat rocks for combat",
+      "Vines hanging everywhere (for swinging)",
+      "Steam rising from jungle floor",
+      "Ancient stone carvings of muscled warriors",
+      "Torches still burning despite waterfall spray",
+      "Cherry blossoms falling (wrong continent but who cares)",
+      "Random explosions in distant jungle",
+      "Everything is WET"
+    ]
+  },
+  
+  "training_ground": {
+    "description": "Natural rock platform behind waterfall",
+    "state": "Slippery, gleaming wet stones",
+    "atmosphere": "Water spray hitting everything",
+    "props": "Log for lifting, rocks for throwing, rope for climbing"
+  },
+  
+  "characters": {
+    "BLADE_STRONGMAN": {
+      "description": "Student seeking ultimate power",
+      "physique": "Muscles even BIGGER than before",
+      "wardrobe": "ONLY torn khaki shorts, no shoes, headband",
+      "appearance": "Hair wet and flowing, body DRIPPING",
+      "state": "Exhausted but determined, breathing heavy",
+      "demeanor": "Respectful to master but sexually confused"
+    },
+    "MASTER_EAGLE_THUNDER": {
+      "description": "Native American/Japanese/Viking hybrid mentor",
+      "age": "Mysteriously ageless (could be 40 or 400)",
+      "physique": "Like Hercules had a baby with a mountain",
+      "wardrobe": "Loincloth. That's it. Just loincloth",
+      "appearance": "Long flowing hair, war paint, MASSIVE chest",
+      "accessories": "Eagle feather (one), mysterious scars",
+      "demeanor": "Wise but uncomfortably intimate teaching style"
+    }
+  },
+  
+  "training_sequence": [
+    "Blade emerges from jungle at dawn",
+    "Sees Master meditating UNDER waterfall",
+    "Water cascading off massive shoulders",
+    "Master opens eyes: 'You're late'",
+    "Blade: 'Traffic was murder, sensei'",
+    "Master stands, water streaming down body",
+    "Every muscle defined by water streams",
+    "Master: 'To defeat Viktor, you must become... WET'",
+    "Blade confused: 'Wet, sensei?'",
+    "Master: 'WET WITH POWER!'",
+    "Grabs Blade, pulls him under waterfall",
+    "Both now under cascading water",
+    "Master positions behind Blade",
+    "Adjusts Blade's stance, hands on hips",
+    "Master: 'Feel the water's power'",
+    "Blade: 'I feel... something'",
+    "Begin synchronized kata under waterfall",
+    "Moving in perfect unison",
+    "Camera circles, showing muscles through water",
+    "Master's hands guiding Blade's arms",
+    "Close-up on water running down abs",
+    "Master: 'Now we wrestle... for strength'",
+    "Immediately lock up in grappling position",
+    "Rolling on wet rocks",
+    "Muscles straining against each other",
+    "Water flying everywhere in slow motion",
+    "Master pins Blade, faces inches apart",
+    "Master: 'You must want it MORE'",
+    "Blade: 'I want it, sensei!'",
+    "Master: 'HOW MUCH?'",
+    "Blade: 'SO MUCH!'",
+    "Blade reverses, now on top",
+    "Both breathing heavy, water dripping",
+    "Long pause, eye contact",
+    "SUDDENLY NINJAS ATTACK (again)",
+    "Master and Blade still entangled",
+    "Fight ninjas while wrestling each other",
+    "Master: 'Don't let go! This is training!'",
+    "Blade: 'This is confusing!'",
+    "Use their grappled bodies to destroy ninjas",
+    "Swing each other as weapons",
+    "Water makes everything slippery",
+    "Ninjas flying into waterfall",
+    "EXPLOSION behind waterfall (somehow)",
+    "Master and Blade stand together",
+    "Both put hands on hips, survey destruction",
+    "Master puts hand on Blade's wet shoulder",
+    "Master: 'You are ready... for the MONTAGE'",
+    "Lightning strikes despite clear sky",
+    "Both flex simultaneously",
+    "Freeze frame on flex"
+  ],
+  
+  "physical_contact": {
+    "emphasis": "CONSTANT bodily contact for 'training'",
+    "positions": [
+      "Master behind Blade, hands on hips",
+      "Wrestling on wet rocks",
+      "Master pinning Blade",
+      "Blade pinning Master",
+      "Locked in combat embrace while fighting ninjas",
+      "Shoulder touches",
+      "Stance corrections requiring full body contact"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Every training montage plus Magic Mike",
+    "look": "EVERYTHING WET AND GLISTENING",
+    "mood": "Spiritual awakening through homoeroticism",
+    "pacing": "Slow motion for water shots"
+  },
+  
+  "critical_instructions": [
+    "EVERYTHING must be WET constantly",
+    "Water must cascade dramatically off muscles",
+    "Unnecessary body contact for 'training'",
+    "Loincloth for master, torn shorts for Blade",
+    "Rainbow visible in mist at all times",
+    "Cherry blossoms despite being in Colombia",
+    "Ninjas must attack at most intimate moment",
+    "Wrestling that looks exactly like sex",
+    "But everyone pretends it's training",
+    "Water droplets in slow motion",
+    "Muscles must be defined by water streams",
+    "Master must be unnecessarily hands-on",
+    "Eye contact held too long",
+    "Heavy breathing that sounds sexual",
+    "But dialogue remains about training",
+    "Random explosions even near water",
+    "Lightning for dramatic effect",
+    "Must end with simultaneous flex",
+    "NO ONE acknowledges what this looks like",
+    "Physics of water doesn't matter",
+    "Ninjas appear from nowhere",
+    "Everything gleams and glistens"
+  ]
+}

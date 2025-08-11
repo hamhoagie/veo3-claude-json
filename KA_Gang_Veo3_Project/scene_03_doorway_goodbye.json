@@ -1,0 +1,90 @@
+{
+  "scene": "Philadelphia street looking at row home entrance - 1960s BLUE EVENING",
+  
+  "camera_position": {
+    "starts": "On narrow Kensington street looking at row home doorway",
+    "movement": "Slow dolly backward down street",
+    "ends": "Further down street, wider view of doorway",
+    "style": "Clean frame, no artifacts"
+  },
+  
+  "environment": {
+    "primary_location": "Narrow Kensington street exterior",
+    "view": "Looking at row home entrance from street",
+    "time": "Blue evening hour - not fully dark",
+    "lighting": "BLUE twilight, street lamps just starting to glow",
+    "street_details": [
+      "Typical narrow Philadelphia street",
+      "Row houses on both sides",
+      "Concrete sidewalk",
+      "Blue evening light",
+      "Street lamps dim orange glow beginning",
+      "Overall blue-grey atmosphere"
+    ]
+  },
+  
+  "doorway": {
+    "description": "Typical Philadelphia row home entrance",
+    "state": "Door opens during scene",
+    "details": [
+      "Three concrete steps up",
+      "Dark painted door",
+      "Dim tungsten light visible inside",
+      "Typical Kensington row home"
+    ]
+  },
+  
+  "characters_in_doorway": {
+    "JOHN_exits_second": {
+      "identity": "Same dark-haired man from kitchen scenes",
+      "description": "Man in late 20s",
+      "wardrobe": "Dark jacket over work clothes, cap",
+      "action": "Stands in doorway, then walks toward camera and past"
+    },
+    "ANNIE_stays_inside": {
+      "identity": "Same woman from kitchen scene",
+      "description": "Woman in late 20s",
+      "wardrobe": "Housedress with cardigan added",
+      "action": "Stays in doorway throughout - NEVER steps outside"
+    },
+    "BILLY_exits_first": {
+      "identity": "Same stocky man from kitchen scenes",
+      "description": "Man in early 30s",
+      "wardrobe": "Wool coat, cap, carrying green duffel bag",
+      "action": "FIRST to exit - walks past camera immediately"
+    }
+  },
+  
+  "sequence_from_street": [
+    "Three people visible in/near doorway",
+    "BILLY exits FIRST with duffel - walks toward camera and past",
+    "Billy completely leaves frame",
+    "John and Annie now alone in doorway",
+    "Annie touches John's face gently",
+    "Hold for a beat",
+    "John walks toward camera and past",
+    "Camera slowly pulls back",
+    "Annie remains in doorway alone",
+    "Annie lights cigarette",
+    "Wide shot of Annie alone in doorway"
+  ],
+  
+  "visual_style": {
+    "reference": "Melville's Le Cercle Rouge - blue hour",
+    "look": "Clean digital video - NO film artifacts",
+    "lighting": "BLUE evening light - cold twilight",
+    "mood": "Melancholic, resigned, quiet goodbye"
+  },
+  
+  "critical_instructions": [
+    "NO FILM BORDERS OR ARTIFACTS - clean frame",
+    "BLUE EVENING LIGHT - twilight tones",
+    "Camera ALWAYS outside on street",
+    "BILLY EXITS FIRST completely",
+    "Annie NEVER leaves doorway",
+    "NO DIALOGUE OR SUBTITLES",
+    "Single continuous shot",
+    "Characters walk TOWARD camera as it pulls back",
+    "Cold blue atmosphere"
+  ]
+}

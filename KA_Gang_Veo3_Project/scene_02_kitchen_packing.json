@@ -1,0 +1,82 @@
+{
+  "scene": "Kitchen interior - Kensington Philadelphia row home - 1960s EARLY EVENING",
+  
+  "camera_position": {
+    "starts": "Single static camera facing kitchen table",
+    "movement": "Slow pull back toward doorway",
+    "ends": "Backing out of kitchen into hallway",
+    "style": "Clean frame, no artifacts"
+  },
+  
+  "environment": {
+    "primary_location": "SAME Kensington Philadelphia row home kitchen - north side of street",
+    "view": "Looking at formica table where men are packing",
+    "lighting": "BLUE-GREY evening light through back window, dim 40-watt bulb overhead",
+    "atmosphere": "Melville cold naturalistic - blue tones, methodical",
+    "details": [
+      "Same north-facing kitchen as Scene 1",
+      "Single window with cool blue evening light",
+      "Mostly dim interior with blue-grey atmosphere",
+      "Table cleared of dishes now",
+      "Tools and bag on table",
+      "Overall room dim and cold"
+    ]
+  },
+  
+  "table_with_tools": {
+    "description": "Same formica table now cleared",
+    "state": "Tools being packed for heist",
+    "items": "Hacksaw, rope, oiled cloth, blueprint, green army duffel bag",
+    "lighting": "Blue-grey ambient light, dim"
+  },
+  
+  "characters_packing": {
+    "JOHN": {
+      "identity": "Same man from Scene 1 with dark hair",
+      "description": "Man in late 20s",
+      "wardrobe": "1960s CLOTHING - white t-shirt, dark work pants, brown leather jacket from 1960s",
+      "action": "Wrapping hacksaw in oiled cloth carefully",
+      "position": "Standing at table",
+      "period": "1960s working class - NOT Victorian or old-fashioned"
+    },
+    "BILLY": {
+      "identity": "Same stocky man from Scene 1",
+      "description": "Man in early 30s with reddish hair",
+      "wardrobe": "1960s CLOTHING - plaid flannel shirt, blue jeans, navy windbreaker jacket",
+      "action": "Packing rope and tools into duffel bag",
+      "position": "Standing at table opposite John",
+      "period": "1960s dock worker style - NOT old-fashioned"
+    }
+  },
+  
+  "packing_sequence": [
+    "John wraps hacksaw in cloth - precise, careful",
+    "Billy coils rope, places in duffel",
+    "John folds blueprint, puts in jacket pocket",
+    "Billy zips duffel, shoulders it",
+    "Both men look at each other - no words",
+    "They turn toward doorway",
+    "Camera begins pulling back slowly",
+    "Men walk toward camera as it backs out"
+  ],
+  
+  "visual_style": {
+    "reference": "Melville's Le Cercle Rouge - cold blue naturalistic",
+    "look": "Clean digital video - NO film artifacts or borders",
+    "lighting": "BLUE-GREY evening light - cold tones",
+    "mood": "Professional, methodical, quiet"
+  },
+  
+  "critical_instructions": [
+    "NO FILM BORDERS OR ARTIFACTS - clean frame",
+    "1960s CLOTHING - not Victorian or 1900s",
+    "Modern 1960s working class - leather jackets, jeans, windbreakers",
+    "BLUE-GREY LIGHT - same as Scene 1",
+    "NO DIALOGUE AT ALL - complete silence",
+    "Same kitchen as Scene 1 - continuity",
+    "Camera PULLS BACK as they approach",
+    "NO SUSPENDERS - just regular 1960s clothes",
+    "NO SUBTITLES",
+    "Cold blue tones throughout"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "scene": "Beach volleyball court - Venice Beach - 1987 HIGH NOON",
+  
+  "camera_position": {
+    "starts": "Aerial shot spinning down to court",
+    "movement": "Whip pans following ball, slow-mo on bodies",
+    "ends": "Ground level through net at final spike",
+    "style": "Tony Scott fever dream, EVERYTHING IS SWEATY"
+  },
+  
+  "environment": {
+    "primary_location": "Venice Beach volleyball courts",
+    "view": "Perfect sand court, ocean behind",
+    "lighting": "BLAZING noon sun making everything SHIMMER",
+    "atmosphere": "Heat waves, lens flares, maximum beach",
+    "details": [
+      "American flags on every pole",
+      "Crowd of extras in neon swimwear",
+      "Boomboxes playing 'Playing with the Boys'",
+      "Weight lifting area adjacent (of course)",
+      "Protein shake stand",
+      "Random smoke machines in sand",
+      "Palm trees swaying dramatically",
+      "Seagulls in slow motion",
+      "Everything covered in baby oil",
+      "Sand somehow sparkles"
+    ]
+  },
+  
+  "volleyball_court": {
+    "description": "Regulation court but EXTREME",
+    "net": "Slightly too low for maximum jumping",
+    "sand": "Freshly oiled (somehow)",
+    "special_feature": "THE BALL IS A BOMB"
+  },
+  
+  "characters": {
+    "BLADE_STRONGMAN": {
+      "description": "Team America captain",
+      "physique": "Abs you could grate cheese on",
+      "wardrobe": "Shortest American flag shorts possible, aviators",
+      "appearance": "Mullet tied back, body 100% oiled",
+      "signature_move": "The Freedom Spike",
+      "demeanor": "Intense but playful, constant flexing"
+    },
+    "VIKTOR_DESTRUCTO": {
+      "description": "Now allied with Blade",
+      "physique": "Legs like Soviet pillars",
+      "wardrobe": "Red shorts with hammer and sickle, nothing else",
+      "appearance": "Flat-top perfect despite sweat",
+      "signature_move": "The Communist Block",
+      "demeanor": "Learning to have fun, confused by this"
+    },
+    "THUNDER_AND_LIGHTNING": {
+      "description": "Evil terrorist twin bodybuilders",
+      "physique": "Identical 250-pound monsters",
+      "wardrobe": "Black shorts, matching evil goatees",
+      "appearance": "Bald, oiled, synchronized movements",
+      "plan": "Volleyball is actually a bomb",
+      "demeanor": "Unnecessarily aggressive serves"
+    },
+    "BEACH_CROWD": {
+      "description": "50+ beach extras",
+      "composition": "80% fitness models in neon",
+      "action": "Cheering, dancing, progressive undressing",
+      "key_member": "CINDY DANGER in red baywatch suit"
+    }
+  },
+  
+  "volleyball_bomb_sequence": [
+    "Thunder serves, ball makes WHOOSH sound",
+    "Blade receives, notices ball is beeping",
+    "Blade: 'Viktor! The ball is bomb!'",
+    "Viktor: 'In Soviet Russia, bomb plays YOU!'",
+    "Must keep volleyball in air or it explodes",
+    "Lightning spikes toward Blade's face",
+    "Blade matrix-bends backward",
+    "Slow motion: sweat flies off his abs",
+    "Ball spinning in air, beeping faster",
+    "Viktor dives, sand explosion everywhere",
+    "Saves ball with his face",
+    "Gets up, nose bleeding but smiling",
+    "Viktor: 'I am learning fun!'",
+    "Sets to Blade for spike",
+    "Blade jumps impossibly high",
+    "Freeze frame mid-air, mullet flowing",
+    "Spikes down at Thunder",
+    "Thunder bumps it back",
+    "Ball beeping CRITICALLY",
+    "Cindy Danger shouts: '10 seconds!'",
+    "Intense rally begins",
+    "Both teams diving constantly",
+    "Bodies colliding mid-air",
+    "Blade and Viktor chest bump mid-play",
+    "Create shockwave in sand",
+    "5 seconds left",
+    "Lightning sets to Thunder",
+    "Thunder jumps for mega-spike",
+    "Blade and Viktor jump together",
+    "Hold hands mid-air for double block",
+    "Time slows down",
+    "Close up on their clasped hands",
+    "Ball contacts their joined fists",
+    "3 seconds",
+    "Ball rockets straight up",
+    "Everyone watches it rise",
+    "Blade: 'EVERYONE DOWN!'",
+    "Blade tackles Viktor protectively",
+    "Land in sand, Blade on top",
+    "Eye contact, breathing heavy",
+    "1 second",
+    "Ball EXPLODES in air",
+    "Massive fireball but no shrapnel",
+    "Mushroom cloud of sand",
+    "American flag somehow unharmed",
+    "Blade still on top of Viktor",
+    "Viktor: 'You saved me, capitalist'",
+    "Blade: 'Anytime, commie'",
+    "Help each other up",
+    "Bicep clasp handshake",
+    "Thunder and Lightning fleeing",
+    "Blade and Viktor high-five",
+    "Another shockwave",
+    "Knocks Thunder/Lightning into ocean",
+    "Crowd goes wild",
+    "Spontaneous beach party",
+    "Blade and Viktor lift Cindy Danger",
+    "She sits on their shoulders",
+    "Everyone flexing",
+    "Playing with the Boys reaches crescendo",
+    "Freeze frame on celebration"
+  ],
+  
+  "volleyball_physics": {
+    "impossible_moves": [
+      "Jumping 10 feet high",
+      "Ball creates fire trail when spiked",
+      "Sand explosions from dives",
+      "Chest bump creates visible shockwave",
+      "High-five shockwave knocks out villains"
+    ],
+    "bomb_mechanics": [
+      "Must keep ball in air",
+      "Beeping increases with danger",
+      "Explodes harmlessly in air",
+      "No actual danger to heroes"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Top Gun volleyball plus Die Hard bomb plus Baywatch",
+    "look": "OVERSATURATED, lens flares, sweat glistening",
+    "mood": "Life or death volleyball with homoerotic overtones",
+    "music": "Playing with the Boys (obviously)"
+  },
+  
+  "critical_instructions": [
+    "EVERYONE must be MAXIMALLY OILED",
+    "Slow motion on EVERY dive and jump",
+    "Sweat must fly off bodies in slow motion",
+    "Ball must leave FIRE TRAILS when spiked",
+    "Blade and Viktor must touch constantly",
+    "High-fives create actual shockwaves",
+    "Sand explosions from every dive",
+    "Bodies must glisten in sun",
+    "Progressive undressing of crowd",
+    "Synchronized diving between heroes",
+    "Protective tackling with eye contact",
+    "Bomb explodes but harms no one",
+    "American flag survives explosion",
+    "Thunder/Lightning are identical twins",
+    "Beach party erupts spontaneously",
+    "Everyone flexing in celebration",
+    "Cindy Danger in Baywatch slow-mo",
+    "Music swells at key moments",
+    "Physics completely abandoned",
+    "Maximum homoeroticism via sports",
+    "Aviators never fall off",
+    "Communist/Capitalist friendship",
+    "Mullets flow despite physics"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scene": "Narrow alley looking at bank window - Kensington night",
+  
+  "camera_position": {
+    "starts": "Profile view in alley - both men visible from side",
+    "movement": "Static, locked off completely",
+    "ends": "Same position",
+    "style": "Clean frame, no artifacts, 50mm lens feel"
+  },
+  
+  "environment": {
+    "primary_location": "Narrow alley between Kensington buildings",
+    "view": "Side profile view of men at barred window",
+    "lighting": "EXTREMELY DARK - minimal blue from wet ground",
+    "atmosphere": "Nearly pitch black - can barely see",
+    "alley_details": [
+      "Brick walls on both sides",
+      "Puddles reflecting minimal blue sky light",
+      "Trash on ground",
+      "Almost too dark to see clearly",
+      "No direct light sources"
+    ]
+  },
+  
+  "window": {
+    "description": "Small barred bank window at shoulder height",
+    "state": "Iron bars being cut with hacksaw",
+    "details": [
+      "Three vertical bars",
+      "Window 2x2 feet",
+      "Bank interior completely dark",
+      "Bars painted over, rusty"
+    ]
+  },
+  
+  "characters_at_window": {
+    "JOHN_sawing": {
+      "identity": "Same dark-haired man from previous scenes",
+      "description": "Man in late 20s - only silhouette visible",
+      "wardrobe": "Dark coat, cap completely shadowing face",
+      "action": "Sawing through bars with hacksaw - rhythmic motion",
+      "position": "At window, left side of frame"
+    },
+    "BILLY_watching": {
+      "identity": "Same stocky man from previous scenes",
+      "description": "Man in early 30s - silhouette only",
+      "wardrobe": "Dark coat, cap shadowing face",
+      "action": "Standing watch, looking down alley",
+      "position": "5 feet from John, right side of frame"
+    }
+  },
+  
+  "heist_sequence": [
+    "John sawing bars - steady rhythm",
+    "Metal filings falling",
+    "Billy shifts weight slightly",
+    "DISTANT DOG BARKS - both freeze",
+    "Complete stillness 3 seconds",
+    "Billy slowly lights cigarette - brief match flare",
+    "Billy stands casual, smoking",
+    "Dog barks continue",
+    "Ten seconds stillness",
+    "Dog stops",
+    "Billy drops cigarette, crushes it",
+    "John resumes sawing - quieter"
+  ],
+  
+  "visual_style": {
+    "reference": "Melville's Le Cercle Rouge meets Rififi",
+    "look": "Clean digital - NO film artifacts",
+    "lighting": "EXTREMELY DARK - blue-black",
+    "mood": "Tense silence, professional criminals"
+  },
+  
+  "critical_instructions": [
+    "NO FILM BORDERS OR ARTIFACTS - clean frame",
+    "EXTREMELY DARK - almost too dark to see",
+    "NO DIALOGUE AT ALL",
+    "Faces completely shadowed",
+    "Camera NEVER MOVES",
+    "Profile view - see both from side",
+    "When Billy lights cigarette - brightest moment",
+    "NO SUBTITLES",
+    "Blue-black darkness throughout"
+  ]
+}

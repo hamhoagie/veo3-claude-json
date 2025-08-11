@@ -1,0 +1,78 @@
+{
+  "scene": "Beach gym - VLADIMIR'S ULTIMATUM",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Medium shot - Vladimir in chair, eating",
+    "movement": "Slow push in on Vladimir's face",
+    "ends": "Close-up on Vladimir's greasy smile",
+    "style": "Villain monologue"
+  },
+  
+  "environment": {
+    "primary_location": "Beach gym area",
+    "key_elements": [
+      "Vladimir in ornate sedan chair",
+      "Armed men standing behind",
+      "Rex visible in background getting up",
+      "Morning sun creating long shadows"
+    ]
+  },
+  
+  "character": {
+    "VLADIMIR": {
+      "description": "Crime boss making his demand",
+      "physique": "400+ pounds of lazy power",
+      "wardrobe": "White linen suit, panama hat",
+      "appearance": "PAINTED-ON BLACK HAIR, grease on face",
+      "eating": "New chicken leg in hand",
+      "demeanor": "Bored but threatening",
+      "voice": "ACCENTED VOICE, mouth full"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "VLADIMIR in chair, takes huge bite of chicken leg",
+      "audio": "Eating sounds",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:02:00",
+      "visual": "VLADIMIR speaks with mouth full, gesturing with chicken",
+      "audio": "Vladimir speaking",
+      "dialogue": "[VLADIMIR SPEAKING]: One last job, soldier boy.",
+      "voice_type": "ACCENTED VOICE, mouth full"
+    },
+    {
+      "timecode": "00:00:04:00",
+      "visual": "VLADIMIR takes another bite, grease dripping",
+      "audio": "More eating",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:05:00",
+      "visual": "VLADIMIR leans forward slightly, still chewing",
+      "audio": "Vladimir speaking with authority",
+      "dialogue": "[VLADIMIR SPEAKING]: My brother's compound in Colombia. You know it.",
+      "voice_type": "ACCENTED VOICE, mouth full"
+    },
+    {
+      "timecode": "00:00:07:00",
+      "visual": "VLADIMIR smiles, painted hair obvious, grease on chin",
+      "audio": "Vladimir chuckling",
+      "dialogue": "[VLADIMIR SPEAKING]: You destroyed it once. Now you rebuild it.",
+      "voice_type": "ACCENTED VOICE, amused"
+    }
+  ],
+  
+  "visual_requirements": [
+    "Vladimir NEVER stops eating",
+    "Painted hair increasingly obvious",
+    "Grease accumulating on face",
+    "Chair carriers struggling",
+    "Vladimir barely moves except to eat",
+    "ONLY VLADIMIR speaks in this scene"
+  ]
+}

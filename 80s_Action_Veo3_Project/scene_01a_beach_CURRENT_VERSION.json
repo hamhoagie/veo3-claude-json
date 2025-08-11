@@ -1,0 +1,135 @@
+{
+  "scene": "Muscle Beach outdoor gym - Venice Beach - 1987 DAWN",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Wide shot - Rex exercising, Jessica on jeep hood",
+    "movement": "Slow push in, then WHIP PAN to vans arriving",
+    "ends": "Medium shot - Vladimir in sedan chair facing Rex",
+    "style": "Golden hour worship, sudden disruption"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "key_elements": [
+      "Pull-up bars with Rex",
+      "Military jeep with Jessica sitting on hood studying",
+      "American flag waving",
+      "Golden sunrise over ocean",
+      "Black tactical vehicles arriving on beach"
+    ]
+  },
+  
+  "characters": {
+    "REX_THUNDER_ARMSTRONG": {
+      "description": "6'3\" Delta Force veteran",
+      "age": "38, military perfection",
+      "physique": "245 lbs of military muscle",
+      "wardrobe": "Army PT shorts, dog tags, no shirt, red bandana",
+      "appearance": "Military flat-top, square jaw, stubble",
+      "skin": "Bronzed and GLISTENING with sweat",
+      "muscles": "Combat-ready and defined",
+      "backstory": "Retired special forces, single father",
+      "demeanor": "Military discipline, protective",
+      "voice": "DEEP MALE MILITARY VOICE"
+    },
+    "JESSICA_ARMSTRONG": {
+      "description": "Adult college student daughter",
+      "age": "College senior, pre-med program",
+      "physique": "5'7\", athletic swimmer",
+      "wardrobe": "UCLA varsity jacket, jeans, ponytail",
+      "appearance": "Blonde ponytail, studious glasses",
+      "personality": "Smart, sarcastic, independent adult",
+      "position": "ALWAYS on jeep hood with textbooks",
+      "demeanor": "Focused student, annoyed by interruption",
+      "voice": "YOUNG FEMALE VOICE"
+    },
+    "SEÑOR_VLADIMIR": {
+      "description": "Mysterious crime boss and aikido master",
+      "age": "Middle-aged, between 45-60",
+      "physique": "400+ pounds, hidden martial arts power",
+      "wardrobe": "White linen suit (XXXL), gold chains, panama hat",
+      "appearance": "OBVIOUSLY PAINTED-ON BLACK HAIR, thin mustache",
+      "quirk": "Constantly eating gourmet food",
+      "eating": "ALWAYS eating whole roasted chicken",
+      "transportation": "Carried in ornate sedan chair by four men",
+      "demeanor": "Bored, dismissive, sensual about food",
+      "voice": "ACCENTED MALE VOICE WITH MOUTH FULL"
+    },
+    "VLADIMIR'S_MEN": {
+      "description": "20 professional mercenaries",
+      "wardrobe": "ALL wearing matching black tactical gear - black pants, black shirts, black boots, tactical vests",
+      "appearance": "Various ages 25-45, all male, professional soldiers",
+      "equipment": "Rifles held at ready position",
+      "sedan_chair_carriers": "Four strongest men struggling with Vladimir's weight"
+    },
+    "BEACH_BACKGROUND": {
+      "description": "Early morning beach environment",
+      "other_people": "Beach is EMPTY except for main characters",
+      "time": "Dawn, no other beachgoers yet",
+      "detail": "No civilians or bystanders present"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "REX doing one-arm pull-ups at beach gym, military dog tags swinging, glistening with sweat. JESSICA sits on jeep hood reading organic chemistry textbook",
+      "audio": "Grunting, ocean waves",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:02:00",
+      "visual": "Black tactical vehicles screech onto beach. REX drops from pull-up bar, combat ready. JESSICA looks up from book. Men in black tactical gear exit vehicles",
+      "audio": "Tire screech, engines",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:03:12",
+      "visual": "REX stands protectively between vehicles and JESSICA, military stance. JESSICA still on jeep hood watching",
+      "audio": "Rex shouting",
+      "dialogue": "[REX SPEAKING]: Jessica, stay there!",
+      "speaker": "REX",
+      "voice_type": "DEEP MALE MILITARY VOICE"
+    },
+    {
+      "timecode": "00:00:04:15",
+      "visual": "JESSICA on jeep hood, book down, concerned face looking at REX. REX maintains defensive position",
+      "audio": "Jessica speaking",
+      "dialogue": "[JESSICA SPEAKING]: What's happening?",
+      "speaker": "JESSICA",
+      "voice_type": "YOUNG FEMALE VOICE"
+    },
+    {
+      "timecode": "00:00:05:00",
+      "visual": "Sedan chair emerges from vehicle. Four men in black tactical gear struggle carrying enormous VLADIMIR who is eating whole roasted chicken. Grease on face, painted hair obvious",
+      "audio": "Men grunting from weight",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:07:06",
+      "visual": "VLADIMIR in sedan chair facing REX, takes huge bite of chicken, speaks with mouth full. REX tense, military ready",
+      "audio": "Vladimir speaking with mouth full",
+      "dialogue": "[VLADIMIR SPEAKING]: Buenos dias, soldier boy",
+      "speaker": "VLADIMIR",
+      "voice_type": "ACCENTED MALE VOICE WITH MOUTH FULL"
+    }
+  ],
+  
+  "dialogue_summary": {
+    "total_lines": 3,
+    "line_1": "REX says 'Jessica, stay there!' at 00:00:03:12",
+    "line_2": "JESSICA says 'What's happening?' at 00:00:04:15",
+    "line_3": "VLADIMIR says 'Buenos dias, soldier boy' at 00:00:07:06"
+  },
+  
+  "visual_requirements": [
+    "Jessica ALWAYS visible on jeep hood",
+    "Vladimir CONSTANTLY eating chicken",
+    "Rex muscles GLISTENING with sweat",
+    "Vladimir's PAINTED BLACK HAIR obviously fake",
+    "Four men STRUGGLING with chair weight",
+    "Golden sunrise lighting throughout",
+    "American flag waving in background"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "scene": "Inside PTC trolley car - Kensington Philadelphia - 1960s NIGHT",
+  
+  "camera_position": {
+    "starts": "Inside trolley looking down aisle at both men",
+    "movement": "Static, slight trolley vibration only",
+    "ends": "Same position",
+    "style": "Clean frame, no artifacts, handheld feel from trolley motion"
+  },
+  
+  "environment": {
+    "primary_location": "Inside Philadelphia PTC trolley car at night",
+    "route": "Traveling through Kensington on Frankford Avenue",
+    "view": "Interior of trolley car, windows show dark streets passing",
+    "lighting": "Harsh fluorescent inside trolley, blue-black night outside windows",
+    "atmosphere": "Melville style - cold, alienated, public transport at night",
+    "details": [
+      "1960s PTC green and cream trolley interior",
+      "Worn wooden seats with metal frames",
+      "Advertisement placards above windows",
+      "Vertical metal poles for standing passengers",
+      "Few other passengers - mostly empty",
+      "Windows reflect interior light against dark streets",
+      "Trolley rocks and sways on tracks"
+    ]
+  },
+  
+  "trolley_interior": {
+    "description": "Typical 1960s Philadelphia trolley",
+    "state": "Moving through Kensington streets",
+    "details": [
+      "Wooden floor worn smooth",
+      "Single fluorescent light strips",
+      "Windows foggy from cold night",
+      "Driver visible at front behind partition"
+    ]
+  },
+  
+  "characters_on_trolley": {
+    "JOHN_seated": {
+      "identity": "Same dark-haired man from previous scenes",
+      "description": "Man in late 20s",
+      "wardrobe": "1960s - brown leather jacket, work pants, cap",
+      "position": "SEATED on wooden bench seat",
+      "action": "Sitting still, looks at Billy, then out window"
+    },
+    "BILLY_standing": {
+      "identity": "Same stocky man from previous scenes",
+      "description": "Man in early 30s",
+      "wardrobe": "1960s - navy windbreaker, jeans, newsboy cap",
+      "position": "STANDING, holding vertical metal pole",
+      "action": "Swaying with trolley motion, looks at John, then out window"
+    },
+    "DUFFEL_BAG": {
+      "description": "Green army surplus duffel with tools",
+      "position": "On floor between John's feet and where Billy stands",
+      "state": "Zipped closed, looks heavy"
+    }
+  },
+  
+  "action_sequence": [
+    "Trolley rocks along tracks through dark Kensington",
+    "John seated, staring ahead",
+    "Billy standing, holding pole, swaying",
+    "They make eye contact - brief look of understanding",
+    "Both look away, out opposite windows",
+    "Kensington row houses pass by in darkness",
+    "Street lights create moving shadows inside trolley",
+    "Duffel bag shifts slightly with trolley motion",
+    "John adjusts bag with his foot",
+    "Billy and John avoid looking at each other again",
+    "Trolley continues through night"
+  ],
+  
+  "window_views": {
+    "passing_scenery": [
+      "Kensington row houses",
+      "Corner bars with neon signs",
+      "Closed shops on Frankford Avenue",
+      "Other trolley passing opposite direction",
+      "Street lights creating rhythm"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Melville's Le Cercle Rouge - public transport alienation",
+    "look": "Clean digital - NO film artifacts",
+    "lighting": "Harsh fluorescent inside, dark blue outside",
+    "mood": "Tense, quiet, two criminals in public space"
+  },
+  
+  "critical_instructions": [
+    "NO FILM BORDERS OR ARTIFACTS - clean frame",
+    "1960s Philadelphia PTC trolley - green and cream colors",
+    "JOHN IS SEATED, BILLY IS STANDING holding metal pole",
+    "Duffel bag on floor between them",
+    "NO DIALOGUE AT ALL - complete silence",
+    "Fluorescent light inside, dark outside",
+    "They look at each other ONCE then out windows",
+    "NO SUBTITLES",
+    "Trolley motion creates slight camera shake",
+    "Other passengers visible but distant"
+  ]
+}

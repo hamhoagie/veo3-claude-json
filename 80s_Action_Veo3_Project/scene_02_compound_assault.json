@@ -1,0 +1,194 @@
+{
+  "scene": "Vladimir's jungle compound - Colombian rainforest - 1987 DUSK",
+  
+  "camera_position": {
+    "starts": "Rex's POV through rifle scope",
+    "movement": "Following him through compound massacre",
+    "ends": "Crane shot of compound in flames",
+    "style": "Rambo-style guerrilla cinematography"
+  },
+  
+  "environment": {
+    "primary_location": "Cartel jungle compound perimeter",
+    "view": "Guard towers, cocaine labs, main hacienda",
+    "lighting": "Orange sunset through jungle canopy",
+    "atmosphere": "Humid, insects, distant salsa music",
+    "details": [
+      "Cocaine processing buildings",
+      "Guard towers with spotlights",
+      "Jeeps with mounted .50 cals",
+      "Exotic animals in cages (tigers, cobras)",
+      "Swimming pool shaped like skull",
+      "Helicopter pad with gold helicopter",
+      "Guards playing cards, lifting weights",
+      "Christmas lights strung everywhere (unclear why)",
+      "Vladimir's hacienda on hilltop",
+      "Everything sweaty and mosquito-filled"
+    ]
+  },
+  
+  "compound_layout": {
+    "description": "Multi-level jungle fortress",
+    "defenses": "100+ guards, land mines, attack dogs",
+    "weak_point": "Guards distracted by mandatory workout hour",
+    "vladimir_location": "Hacienda pool, being fed grapes"
+  },
+  
+  "characters": {
+    "REX_THUNDER_ARMSTRONG": {
+      "description": "Now in full combat mode",
+      "physique": "Covered in mud and blood (not his)",
+      "wardrobe": "Torn camo pants, bandolier, no shirt, rambo bandana",
+      "weapons": "M60 machine gun, grenades, massive knife",
+      "appearance": "War paint, veins bulging, pure rage",
+      "kill_count": "About to be legendary",
+      "demeanor": "Cold efficiency mixed with dad jokes"
+    },
+    "GUARD_CAPTAIN_RICARDO": {
+      "description": "6'5\" Brazilian mercenary",
+      "physique": "280 lbs of steroid abuse",
+      "wardrobe": "Tank top that says 'PAIN', camo pants",
+      "specialty": "Bench pressing during guard duty",
+      "fate": "Epic weight room fight incoming"
+    },
+    "THE_COMPOUND_GUARDS": {
+      "description": "100+ interchangeable henchmen",
+      "current_activity": "Mandatory 6pm workout",
+      "equipment": "Uzis left next to weight benches",
+      "awareness_level": "Fatally distracted by gains"
+    }
+  },
+  
+  "massacre_sequence": [
+    "Rex watching through scope",
+    "Guards all exercising shirtless",
+    "Rex: 'Leg day? More like death day'",
+    "Shoots guard doing squats",
+    "Guard falls, barbell crushes another",
+    "Rex emerges from jungle",
+    "Walks toward compound, M60 hip-firing",
+    "Guards scrambling for weapons",
+    "Rex: 'No pain...' *RATATATAT* '...no gain'",
+    "Mows down entire workout class",
+    "Throws grenade into protein shake bar",
+    "MASSIVE EXPLOSION",
+    "Rex walking through flames",
+    "Guard tries to surrender",
+    "Guard: 'Please! I have children!'",
+    "Rex: 'So do I' *SNAP neck*",
+    "Enters weight room",
+    "Ricardo bench pressing 500 lbs",
+    "Sees Rex, doesn't stop rep",
+    "Ricardo: 'Let me finish my set, gringo'",
+    "Rex: 'Take your time. It's your last'",
+    "Ricardo racks weight, stands up",
+    "Both men circle each other",
+    "Ricardo tears off tank top",
+    "Rex already shirtless, flexes in response",
+    "Ricardo: 'Impressive physique, hermano'",
+    "Rex: 'I work out'",
+    "They charge each other",
+    "MASSIVE COLLISION",
+    "Both fly backward",
+    "Ricardo grabs 45 lb plate",
+    "Throws it like frisbee",
+    "Rex ducks, it DECAPITATES guard behind him",
+    "Rex grabs barbell like staff",
+    "Spins it, hits Ricardo in abs",
+    "Ricardo barely flinches",
+    "Ricardo: 'My turn'",
+    "Grabs Rex in bear hug",
+    "Rex's feet leave ground",
+    "Both men's muscles straining",
+    "Veins popping, sweating profusely",
+    "Face to face, breathing heavy",
+    "Ricardo: 'You smell nice, gringo'",
+    "Rex: 'It's called killing your friends'",
+    "Headbutts Ricardo",
+    "Ricardo drops him",
+    "Rex grabs dumbbell",
+    "Uppercuts Ricardo with 80-pounder",
+    "Ricardo flies up, crashes through ceiling",
+    "Falls back down into leg press machine",
+    "Machine closes on him",
+    "Ricardo: 'Good form, gringo...' *dies*",
+    "Rex grabs his M60",
+    "Exits weight room",
+    "Compound fully engaged now",
+    "Rex on rampage toward hacienda",
+    "Shoots fuel depot",
+    "MASSIVE EXPLOSION",
+    "Jeep comes at him",
+    "Rex doesn't move",
+    "Punches hood as it arrives",
+    "Jeep FLIPS OVER HIM",
+    "Explodes behind him",
+    "Rex doesn't look back",
+    "Guards fleeing",
+    "Rex: 'Cardio time, ladies!'",
+    "Chases them while firing",
+    "Reaches hacienda gates",
+    "Sees sign: 'BEWARE OF COBRA'",
+    "Rex: 'I hate snakes'",
+    "Massive cobra emerges from bushes",
+    "20 feet long, hood spread",
+    "Rex drops M60",
+    "Rex: 'Let's dance, snake'",
+    "Cobra strikes",
+    "Rex catches it mid-strike",
+    "PUNCHES COBRA IN FACE",
+    "Cobra stunned",
+    "Rex grabs its head",
+    "Uses cobra to BATTER DOWN GATE",
+    "Gate explodes inward",
+    "Rex tosses unconscious cobra aside",
+    "Rex: 'Ssssssee you later'",
+    "Walks toward hacienda",
+    "Everything burning behind him"
+  ],
+  
+  "combat_details": {
+    "kill_methods": [
+      "Weight equipment as weapons",
+      "Neck snaps mid-conversation",
+      "Grenades in everyday locations",
+      "Using cobra as battering ram",
+      "Punching through jeeps"
+    ],
+    "one_liners": [
+      "Leg day? More like death day",
+      "No pain, no gain",
+      "Cardio time, ladies",
+      "Ssssssee you later"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Commando compound assault meets Predator jungle",
+    "look": "Orange sunset, explosions, maximum sweat",
+    "mood": "Unstoppable force meets movable objects",
+    "pacing": "Relentless forward momentum"
+  },
+  
+  "critical_instructions": [
+    "Guards must be working out when killed",
+    "Weight room fight must be homoerotic",
+    "Ricardo and Rex must compliment physiques",
+    "Everything Rex touches EXPLODES",
+    "One-liner for every kill",
+    "Rex must PUNCH A COBRA",
+    "Use cobra as weapon/tool",
+    "Compound burns progressively",
+    "Rex never uses cover",
+    "Walks through gunfire untouched",
+    "Weight equipment becomes weapons",
+    "Both men shirtless in weight room",
+    "Unnecessary muscle flexing",
+    "Guards doing workouts while dying",
+    "Christmas lights add festive carnage",
+    "Rex's kill count must be 50+",
+    "Dad jokes mixed with murder",
+    "Everything explodes behind Rex",
+    "He never looks at explosions"
+  ]
+}

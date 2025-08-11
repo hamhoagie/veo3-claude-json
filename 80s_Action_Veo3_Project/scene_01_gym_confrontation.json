@@ -1,0 +1,142 @@
+{
+  "scene": "Chrome's Gym - Venice Beach - 1987 SUNSET GOLDEN HOUR",
+  
+  "camera_position": {
+    "starts": "Low angle hero shot through gym equipment",
+    "movement": "Slow circular dolly around the confrontation",
+    "ends": "Extreme close-up on glistening pectorals",
+    "style": "Michael Bay before Michael Bay existed - MAXIMUM GLOSS"
+  },
+  
+  "environment": {
+    "primary_location": "Ultra-80's chrome and neon gym",
+    "view": "Weight room with mirrors EVERYWHERE",
+    "lighting": "GOLDEN SUNSET through venetian blinds creating strips across OILED BODIES",
+    "atmosphere": "Steam, sweat, saxophone music, pure testosterone",
+    "details": [
+      "Chrome Nautilus machines gleaming",
+      "Neon pink and blue accent lights",
+      "Mirrors on EVERY surface",
+      "Steam inexplicably coming from vents",
+      "Sunset creating dramatic shadows",
+      "American flag prominently displayed",
+      "Motivational posters: 'PAIN IS WEAKNESS LEAVING THE BODY'",
+      "Weight plates that say 'AMERICAN STEEL'",
+      "Random sparks from welding in background(?)",
+      "Fog machine for no reason"
+    ]
+  },
+  
+  "gym_setup": {
+    "description": "Central bench press area - the altar of masculinity",
+    "bench_press": "500 pounds loaded, chalk dust in air",
+    "atmosphere": "Other gym members have formed circle, watching",
+    "music": "Saxophone wailing over synth drums"
+  },
+  
+  "characters": {
+    "BLADE_STRONGMAN": {
+      "description": "6'4\" of pure American beef",
+      "physique": "IMPOSSIBLY MUSCLED - veins like garden hoses",
+      "wardrobe": "TINY red tank top (torn), shortest shorts legally allowed, white headband",
+      "appearance": "Mullet flowing, mustache perfect, COMPLETELY OILED",
+      "body_details": "Chest glistening, biceps pumped to 22 inches",
+      "demeanor": "Cocky smile, constantly flexing even while talking"
+    },
+    "VIKTOR_DESTRUCTO": {
+      "description": "6'6\" Soviet muscle mountain",
+      "physique": "Even MORE impossibly muscled",
+      "wardrobe": "Yellow HAMMER & SICKLE tank (also torn), red shorts, gold chains",
+      "appearance": "Blonde flat-top, clean shaven, ALSO COMPLETELY OILED",
+      "body_details": "Traps up to his ears, legs like tree trunks",
+      "demeanor": "Intense stare, jaw constantly clenched"
+    },
+    "BACKGROUND_HUNKS": {
+      "description": "12-15 other muscled men",
+      "wardrobe": "Various stages of undress, all tanks and shorts",
+      "action": "Watching intensely, occasionally flexing in sympathy"
+    }
+  },
+  
+  "action_sequence": [
+    "Blade bench pressing 500lbs, counting 'AMERICA! AMERICA!' per rep",
+    "Viktor enters, kicks door so hard it EXPLODES",
+    "All heads turn in slow motion",
+    "Viktor walks in, each step makes floor shake",
+    "Blade racks weight, sits up, pecs bouncing",
+    "Both men's eyes meet across gym",
+    "IMMEDIATE flex-off begins",
+    "Blade hits front double bicep",
+    "Viktor responds with lat spread",
+    "Background guys 'ooooh' and 'ahhhhh'",
+    "Blade tears tank top off with one hand",
+    "Chest muscles dance individually",
+    "Viktor ALSO tears his tank off",
+    "Both shirtless now, circling each other",
+    "Steam increases for no reason",
+    "Blade: 'You're in the wrong gym, comrade'",
+    "Viktor: 'In Soviet Russia, gym enters YOU'",
+    "They lock hands in arm wrestling position",
+    "Stand there, every muscle straining",
+    "Veins popping like 3D road maps",
+    "Other men start chanting 'USA! USA!'",
+    "Close-up on their clasped hands",
+    "Sweat dripping in slow motion",
+    "Their faces get closer as they strain",
+    "6 inches apart, teeth gritted",
+    "Eye contact INTENSE",
+    "Blade: 'Nice glutes, communist'",
+    "Viktor: 'Your deltoids are... adequate'",
+    "SUDDEN EXPLOSION behind them",
+    "Wall blows in, debris everywhere",
+    "They don't break eye contact or stop arm wrestling",
+    "Ninjas rappel through hole",
+    "Still arm wrestling while fighting ninjas",
+    "Blade kicks ninja without looking",
+    "Viktor headbutts two ninjas, still straining",
+    "Use locked arms to clothesline three ninjas",
+    "Ninja tries to separate them",
+    "Both punch ninja simultaneously",
+    "Never stop arm wrestling",
+    "More explosions",
+    "Gym now on fire",
+    "Still arm wrestling in burning gym",
+    "Finally, both smile slightly",
+    "Blade: 'We finish this... later'",
+    "Viktor: 'Da. After we kill ninjas'",
+    "Release hands, immediately start destroying ninjas",
+    "Back to back fighting, muscles gleaming in firelight"
+  ],
+  
+  "visual_style": {
+    "reference": "Top Gun volleyball meets Predator handshake meets every 80s training montage",
+    "look": "OVERSATURATED colors, lens flares everywhere",
+    "mood": "Maximum homoeroticism disguised as maximum heterosexuality",
+    "pacing": "Slow motion randomly for muscle shots"
+  },
+  
+  "critical_instructions": [
+    "EVERYONE must be COMPLETELY OILED",
+    "Muscles must GLISTEN at all times",
+    "Random EXPLOSIONS even when illogical",
+    "Sunset lighting creates DRAMATIC SHADOWS on abs",
+    "Tank tops MUST be torn off",
+    "Eye contact held UNCOMFORTABLY LONG",
+    "Biceps must be MINIMUM 20 inches",
+    "Every muscle group must be individually visible",
+    "Veins must be PROMINENTLY displayed",
+    "Background men must ALSO be shirtless by scene end",
+    "Minimum 3 explosions",
+    "Steam/fog increases throughout scene",
+    "Saxophone must wail during intense moments",
+    "American flag must wave despite being indoors",
+    "NO ONE acknowledges the homoerotic tension",
+    "Everyone acts like this is completely normal",
+    "Sweat must glisten like diamonds",
+    "Close-ups on muscles flexing",
+    "PHYSICS DON'T MATTER",
+    "Ninjas appear for NO REASON",
+    "Gym equipment becomes weapons",
+    "Fire doesn't stop the workout"
+  ]
+}

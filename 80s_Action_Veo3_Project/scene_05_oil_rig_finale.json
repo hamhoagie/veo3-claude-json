@@ -1,0 +1,201 @@
+{
+  "scene": "Abandoned oil rig - International waters - 1987 MIDNIGHT LIGHTNING STORM",
+  
+  "camera_position": {
+    "starts": "Helicopter shot through lightning and rain",
+    "movement": "Crane down into the Thunder Dome arena",
+    "ends": "360 degree rotation during final flex-off",
+    "style": "Maximum Bay-hem, everything WET and EXPLOSIVE"
+  },
+  
+  "environment": {
+    "primary_location": "Converted oil rig fighting arena",
+    "view": "Industrial thunder dome surrounded by ocean",
+    "lighting": "Lightning strikes, fire barrels, spotlights in rain",
+    "atmosphere": "Steam, sparks, rain, PURE TESTOSTERONE STORM",
+    "details": [
+      "Circular cage made of chains and pipes",
+      "Ocean waves crashing against rig",
+      "Lightning strikes every 10 seconds",
+      "Oil barrels on fire everywhere (in rain)",
+      "Steam vents shooting randomly",
+      "Hanging chains for swinging",
+      "American and Soviet flags (both torn)",
+      "Crowd of international criminals watching",
+      "Everything is WET and REFLECTIVE",
+      "Random explosions in background",
+      "Sparks from broken electrical systems",
+      "fog machines still working somehow"
+    ]
+  },
+  
+  "thunder_dome_setup": {
+    "description": "50-foot diameter fighting cage",
+    "floor": "Metal grating, oil puddles, maximum slip danger",
+    "weapons_rack": "Ignored - bodies are the only weapons",
+    "crowd": "300 villains from around the world betting",
+    "special_feature": "Platform slowly lowering into ocean"
+  },
+  
+  "characters": {
+    "BLADE_STRONGMAN": {
+      "description": "Battle-damaged but STRONGER",
+      "physique": "Muscles somehow BIGGER from damage",
+      "wardrobe": "Torn American flag as cape, ripped jeans, no shirt",
+      "appearance": "Hair wet and wild, cuts that make him HOTTER",
+      "injuries": "Sexy shoulder wound, ab scratches",
+      "demeanor": "Determined, protective of Viktor"
+    },
+    "VIKTOR_DESTRUCTO": {
+      "description": "Now fully allied brother-in-arms",
+      "physique": "Soviet steel made flesh",
+      "wardrobe": "Torn red pants, Soviet flag as headband",
+      "appearance": "Flat-top destroyed, now flowing locks",
+      "injuries": "Attractive face cut, bicep bandage",
+      "demeanor": "Ready to die for Blade"
+    },
+    "MAXIMUM_OVERDRIVE": {
+      "description": "Final boss - 7 feet of pure evil muscle",
+      "physique": "300 pounds of impossible mass",
+      "wardrobe": "Spiked shoulder pads, leather pants, cape made of money",
+      "appearance": "Eye patch, facial scars, mechanical arm",
+      "weapons": "His own body plus STEROIDS",
+      "demeanor": "Cocaine-fueled mega-violence"
+    },
+    "THE_DESTROYER_TWINS": {
+      "description": "Maximum's identical bodyguards",
+      "physique": "250 pounds each of synchronized muscle",
+      "wardrobe": "Matching leather harnesses",
+      "appearance": "Chrome dome heads, matching tattoos",
+      "fighting_style": "Perfect synchronization"
+    }
+  },
+  
+  "final_battle_sequence": [
+    "Blade and Viktor enter cage together",
+    "Back to back, survey the situation",
+    "Maximum Overdrive on throne of skulls",
+    "Maximum: 'You die tonight!'",
+    "Injects MEGA-STEROID into neck",
+    "Muscles literally expand on camera",
+    "Destroyer Twins drop from above",
+    "Land in perfect synchronized pose",
+    "Lightning strikes cage",
+    "Electricity runs through wet metal",
+    "Everyone's muscles involuntarily flex",
+    "Blade: 'Viktor, like we practiced!'",
+    "Viktor: 'Da! Combination Friendship Attack!'",
+    "They charge the twins",
+    "Blade slides through oil",
+    "Viktor leaps over him",
+    "They clothesline twins simultaneously",
+    "Twins fly into cage walls",
+    "Maximum stands, throne EXPLODES",
+    "Walks forward, each step dents floor",
+    "Blade and Viktor circle him",
+    "Maximum grabs both their throats",
+    "Lifts them both one-handed each",
+    "They look at each other while choking",
+    "Nod in understanding",
+    "Both kick Maximum simultaneously",
+    "He drops them, steps back",
+    "They land, immediately embrace",
+    "Use embrace momentum to double-punch",
+    "Maximum staggers",
+    "Platform tilting toward ocean",
+    "Water splashing up through grating",
+    "Maximum charges like rhino",
+    "Blade pushes Viktor aside protectively",
+    "Takes hit, flies into cage",
+    "Viktor: 'BLADE! NOOOO!'",
+    "Viktor's rage makes him GROW LARGER",
+    "Charges Maximum",
+    "They grapple, muscles straining",
+    "Blade recovers, sees Viktor in danger",
+    "Blade's love makes HIM grow larger too",
+    "Runs to help Viktor",
+    "Maximum fighting both now",
+    "Triple muscle lock in center",
+    "All three men's veins bulging",
+    "Lightning strikes all three",
+    "They absorb it, get STRONGER",
+    "Platform tilting more, almost vertical",
+    "Hanging onto each other",
+    "Maximum: 'We all die together!'",
+    "Blade and Viktor look at each other",
+    "Blade: 'Together'",
+    "Viktor: 'Forever, comrade'",
+    "They release Maximum, grab each other",
+    "Swing around each other for momentum",
+    "Double bicycle kick to Maximum",
+    "Maximum flies up into lightning",
+    "Gets struck mid-air",
+    "EXPLODES (somehow)",
+    "Platform starts collapsing",
+    "Blade and Viktor holding each other",
+    "Viktor: 'This is end, my friend'",
+    "Blade: 'The best end'",
+    "They high-five and arm-wrestle clasp",
+    "Combined power creates ENERGY SPHERE",
+    "Sphere lifts them up",
+    "Float above collapsing rig",
+    "Rig explodes below them",
+    "They descend onto rescue boat",
+    "Still in arm-wrestle position",
+    "Blade: 'Breakfast?'",
+    "Viktor: 'Da. Protein'",
+    "Sunrise behind them",
+    "Both flex toward sunrise",
+    "Freeze frame on double bicep pose"
+  ],
+  
+  "combat_physics": {
+    "impossible_elements": [
+      "Muscles literally growing from emotion",
+      "Lightning making them stronger",
+      "High-five creating energy sphere",
+      "Maximum exploding from lightning",
+      "Platform tilting but they don't fall",
+      "Fighting while everything collapses"
+    ],
+    "brotherhood_power": [
+      "Protective pushing increases strength",
+      "Emotional bonds manifest as muscle growth",
+      "Combined attacks create energy",
+      "Love literally makes them larger"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Bloodsport meets Titanic meets Dragon Ball Z",
+    "look": "Rain, lightning, fire, maximum wetness",
+    "mood": "Brothers in arms transcending death through muscles",
+    "effects": "Everything exploding, slow-mo constantly"
+  },
+  
+  "critical_instructions": [
+    "RAIN makes everything WET and GLISTENING",
+    "Lightning strikes DON'T harm heroes",
+    "Muscles LITERALLY GROW from emotions",
+    "Maximum Overdrive must EXPLODE",
+    "Platform must be COLLAPSING throughout",
+    "Blade and Viktor constantly PROTECTING each other",
+    "Eye contact during every danger",
+    "Declarations of brotherhood while fighting",
+    "High-five creates ACTUAL ENERGY SPHERE",
+    "Everything must be EXPLODING",
+    "Oil makes everything REFLECTIVE",
+    "Torn flags as clothing",
+    "Injuries make them SEXIER",
+    "Villains are also bodybuilders",
+    "Physics COMPLETELY ABANDONED",
+    "Fire burns despite rain",
+    "Ending on sunrise flex",
+    "Friendship transcends death",
+    "Maximum homoeroticism achieved",
+    "Every muscle must be visible",
+    "Wet hair is dramatic not practical",
+    "Sparks and steam everywhere",
+    "Multiple explosions per minute"
+  ]
+}

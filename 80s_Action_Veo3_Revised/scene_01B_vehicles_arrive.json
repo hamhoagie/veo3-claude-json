@@ -1,0 +1,67 @@
+{
+  "scene": "Beach parking area - VEHICLES ARRIVE",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Wide shot - black SUVs arriving on beach",
+    "movement": "Push in on lead vehicle",
+    "ends": "Door opening to reveal sedan chair",
+    "style": "Building tension"
+  },
+  
+  "environment": {
+    "primary_location": "Beach parking area at dawn",
+    "key_elements": [
+      "Three black SUVs in formation",
+      "Sand being kicked up by tires",
+      "Rex visible in background at gym",
+      "Golden morning light"
+    ]
+  },
+  
+  "characters": {
+    "VLADIMIR'S_MEN": {
+      "description": "20 tactical mercenaries",
+      "wardrobe": "All black tactical gear",
+      "action": "Exiting vehicles, taking positions"
+    },
+    "REX": {
+      "description": "Watching from gym area",
+      "position": "Background, alert stance"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "Three black SUVs screech onto beach in formation",
+      "audio": "Engines, tires on sand",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:02:00",
+      "visual": "Doors open, tactical team emerges with rifles",
+      "audio": "Doors slamming, weapons clicking",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:04:00",
+      "visual": "REX in background, walking toward vehicles, tense",
+      "audio": "Footsteps in sand",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:06:00",
+      "visual": "Largest SUV's back opens, sedan chair visible inside",
+      "audio": "Hydraulic door opening",
+      "dialogue": "NO DIALOGUE"
+    }
+  ],
+  
+  "visual_requirements": [
+    "NO DIALOGUE in this scene",
+    "Building tension through visuals",
+    "Rex in background only",
+    "Focus on vehicles and mercenaries"
+  ]
+}

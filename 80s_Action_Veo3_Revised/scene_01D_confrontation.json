@@ -1,0 +1,93 @@
+{
+  "scene": "Beach gym - REX AND VLADIMIR FACE OFF",
+  "duration": "00:00:08:00",
+  
+  "camera_position": {
+    "starts": "Two-shot - Rex standing, Vladimir in chair",
+    "movement": "Push in on confrontation",
+    "ends": "Close on Rex flying backward",
+    "style": "Western standoff meets martial arts"
+  },
+  
+  "environment": {
+    "primary_location": "Beach gym area",
+    "key_elements": [
+      "Pull-up bars behind Rex",
+      "Vladimir in sedan chair",
+      "Armed men in background",
+      "Golden morning light"
+    ]
+  },
+  
+  "characters": {
+    "REX": {
+      "description": "Delta Force veteran, trying to stay retired",
+      "physique": "245 lbs military muscle, glistening",
+      "wardrobe": "Army PT shorts, no shirt, dog tags",
+      "voice": "DEEP MILITARY VOICE"
+    },
+    "VLADIMIR": {
+      "description": "Crime boss in sedan chair",
+      "physique": "400+ pounds",
+      "wardrobe": "White suit, panama hat",
+      "eating": "Still eating chicken",
+      "voice": "ACCENTED, MOUTH FULL"
+    }
+  },
+  
+  "sequence_breakdown": [
+    {
+      "timecode": "00:00:00:00",
+      "visual": "REX faces VLADIMIR who sits in chair eating, armed men behind",
+      "audio": "Tense standoff music",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:01:00",
+      "visual": "REX steps forward aggressively, muscles tensed",
+      "audio": "Rex speaking firmly",
+      "dialogue": "[REX SPEAKING]: I told you, I'm retired, Vladimir.",
+      "voice_type": "DEEP MILITARY VOICE, firm"
+    },
+    {
+      "timecode": "00:00:03:00",
+      "visual": "VLADIMIR doesn't look up, takes bite of chicken",
+      "audio": "Eating sounds",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:04:00",
+      "visual": "VLADIMIR flicks wrist lazily while holding chicken",
+      "audio": "Whoosh sound effect",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:05:00",
+      "visual": "REX FLIES BACKWARD through air from invisible force",
+      "audio": "Rex grunting, impact sound",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:06:00",
+      "visual": "REX crashes into pull-up bar, BENDS it, lands in sand",
+      "audio": "Metal bending, Rex hitting ground",
+      "dialogue": "NO DIALOGUE"
+    },
+    {
+      "timecode": "00:00:07:00",
+      "visual": "VLADIMIR finally looks up, grease on chin",
+      "audio": "Vladimir speaking lazily",
+      "dialogue": "[VLADIMIR SPEAKING]: Nobody retires from me, soldier boy.",
+      "voice_type": "ACCENTED VOICE, menacing but bored"
+    }
+  ],
+  
+  "visual_requirements": [
+    "Two characters maximum on screen",
+    "Vladimir's wrist flick is TINY",
+    "Rex flies DRAMATICALLY from small gesture",
+    "Pull-up bar BENDS from impact",
+    "Vladimir never stops eating",
+    "ONE line from Rex, ONE from Vladimir"
+  ]
+}

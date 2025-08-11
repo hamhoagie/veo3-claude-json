@@ -1,0 +1,95 @@
+{
+  "scene": "Kitchen interior - Kensington Philadelphia row home - 1960s LATE AFTERNOON",
+  
+  "camera_position": {
+    "starts": "Single static camera facing kitchen table",
+    "movement": "Locked off, no movement whatsoever",
+    "ends": "Same position",
+    "style": "Clean frame, no artifacts"
+  },
+  
+  "environment": {
+    "primary_location": "Kensington Philadelphia row home kitchen - north side of street",
+    "view": "Looking at formica table with dinner dishes",
+    "lighting": "BLUE-GREY indirect light through back window, dim 40-watt bulb overhead",
+    "atmosphere": "Melville cold naturalistic - blue tones, everyday, dim",
+    "details": [
+      "North-facing row home - only indirect blue light",
+      "Single window on back wall gets cool blue light",
+      "Mostly dim interior with blue-grey atmosphere",
+      "Dirty dinner plates on table",
+      "Beer bottles on table",
+      "Overall room is dim and cold"
+    ],
+    "lighting_specifics": [
+      "BLUE-GREY light from north-facing window",
+      "Cool tones throughout - no warm light",
+      "Dim tungsten bulb adds minimal light",
+      "Faces in blue ambient light",
+      "Naturalistic like Melville - cold and real"
+    ]
+  },
+  
+  "table_setup": {
+    "description": "Formica table with dinner remains",
+    "state": "Blueprint spread among plates",
+    "items": "Used plates, couple beer bottles, coffee cups",
+    "lighting": "Blue-grey ambient light, dim"
+  },
+  
+  "characters_at_table": {
+    "JOHN_speaking_first": {
+      "identity": "THE MAN WHO SPEAKS FIRST",
+      "description": "Man in late 20s with dark hair",
+      "appearance": "Pale, needs shave, tired",
+      "wardrobe": "White undershirt, suspenders, work pants",
+      "position": "Seated with finger on blueprint",
+      "action": "JOHN POINTS AT BLUEPRINT AND SAYS THE FIRST LINE"
+    },
+    "BILLY_silent": {
+      "identity": "THE MAN WHO STAYS QUIET",
+      "description": "Man in early 30s with reddish hair",
+      "appearance": "Stocky, weathered",
+      "wardrobe": "Plaid shirt, work clothes",
+      "position": "Seated watching",
+      "action": "BILLY SAYS NOTHING - just watches"
+    },
+    "ANNIE_speaking_second": {
+      "identity": "THE WOMAN WHO SPEAKS SECOND",
+      "description": "Woman in late 20s",
+      "appearance": "Tired, hair in bun",
+      "wardrobe": "Housedress and apron",
+      "position": "Seated across from John",
+      "action": "ANNIE RESPONDS WITH THE SECOND LINE"
+    }
+  },
+  
+  "dialogue_sequence_ORDER": [
+    "FIRST: JOHN (man with dark hair) points at blueprint and says: 'This is the only way in'",
+    "SILENCE for two beats",
+    "SECOND: ANNIE (woman) responds: 'And the only way out, John'",
+    "BILLY (redhead man) remains silent throughout"
+  ],
+  
+  "visual_style": {
+    "reference": "Jean-Pierre Melville's Le Cercle Rouge - cold blue naturalistic",
+    "look": "Clean digital video - NO film artifacts or borders",
+    "lighting": "BLUE-GREY indirect light - cold tones",
+    "mood": "Quiet, everyday criminals, dim cold kitchen"
+  },
+  
+  "critical_instructions": [
+    "NO FILM BORDERS OR ARTIFACTS - clean frame",
+    "NO KODAK FILM EFFECTS - straight video",
+    "BLUE-GREY LIGHT - north-facing indirect",
+    "COLD TONES throughout - no warm light",
+    "JOHN SPEAKS FIRST - 'This is the only way in'",
+    "ANNIE SPEAKS SECOND - 'And the only way out, John'",
+    "BILLY STAYS SILENT",
+    "Naturalistic but clean image",
+    "NO FACIAL SCARS",
+    "All three STAY SEATED",
+    "NO SUBTITLES",
+    "Camera LOCKED OFF"
+  ]
+}

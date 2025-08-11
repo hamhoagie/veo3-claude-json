@@ -1,0 +1,163 @@
+{
+  "scene": "Muscle Beach outdoor gym - Venice Beach - 1987 DAWN",
+  
+  "camera_position": {
+    "starts": "Low angle hero shot - sun rising behind Rex",
+    "movement": "Slow dolly around his workout, then WHIP PAN to danger",
+    "ends": "Helicopter shot of Rex running down beach",
+    "style": "Golden hour worship shots, then handheld chaos"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "view": "Ocean behind, empty beach, workout equipment",
+    "lighting": "GOLDEN DAWN making everything divine",
+    "atmosphere": "Peaceful then SUDDEN VIOLENCE",
+    "details": [
+      "American flag on lifeguard tower",
+      "Seagulls in slow motion",
+      "Waves crashing majestically",
+      "Pull-up bars, concrete weights",
+      "Rex's jeep parked nearby",
+      "Jessica doing homework in jeep",
+      "Steam rising from sand (somehow)",
+      "Everything GLISTENING with morning dew",
+      "Radio playing 'Eye of the Tiger'"
+    ]
+  },
+  
+  "workout_setup": {
+    "description": "Rex's morning routine before chaos",
+    "exercises": "Pull-ups, dips, one-arm push-ups",
+    "atmosphere": "Father-daughter bonding before school",
+    "disruption": "Black vans arrive suddenly"
+  },
+  
+  "characters": {
+    "REX_THUNDER_ARMSTRONG": {
+      "description": "6'3\" of Delta Force perfection",
+      "age": "38 but looks like a god",
+      "physique": "245 lbs of functional muscle",
+      "wardrobe": "Tiny army shorts, dog tags, no shirt, bandana",
+      "appearance": "Blonde flat-top, square jaw, perpetual 5 o'clock shadow",
+      "backstory": "Retired after 'Cambodia incident', single dad",
+      "demeanor": "Protective father, barely contained violence"
+    },
+    "JESSICA_ARMSTRONG": {
+      "description": "17-year-old daughter",
+      "appearance": "Blonde ponytail, varsity jacket",
+      "personality": "Smart, sarcastic, not impressed by dad",
+      "current_activity": "AP Chemistry homework in jeep",
+      "dialogue_style": "Eye-rolling teenager"
+    },
+    "SEÑOR_VLADIMIR": {
+      "description": "Obese cartel aikido master",
+      "physique": "400+ pounds of mysterious power",
+      "wardrobe": "White linen suit (XXXL), gold chains, panama hat",
+      "appearance": "Obviously painted-on hair, thin mustache, always eating",
+      "transportation": "Carried in sedan chair by four men",
+      "demeanor": "Bored, dismissive, sensual about food"
+    },
+    "CARTEL_TEAM": {
+      "description": "20 heavily armed mercenaries",
+      "leader": "MIGUEL - Vladimir's muscled lieutenant",
+      "appearance": "Black tactical gear, uzis",
+      "fate": "About to die horribly"
+    }
+  },
+  
+  "action_sequence": [
+    "Rex doing one-arm pull-ups, counting in cadence",
+    "Each rep makes different muscle groups pop",
+    "Jessica in jeep: 'Dad, you're literally glistening'",
+    "Rex: 'Sweat is just weakness crying, princess'",
+    "Jessica: 'That doesn't even make sense'",
+    "Rex switches to one-arm push-ups",
+    "Dog tags dangling, catching sunrise",
+    "Black vans screech onto beach",
+    "Rex's head snaps up - combat instincts",
+    "Mercenaries pour out",
+    "Rex: 'Jessica, stay in the car'",
+    "Jessica: 'Dad, what's-'",
+    "Sedan chair emerges from largest van",
+    "Four men struggling to carry Vladimir",
+    "Vladimir eating a whole roasted chicken",
+    "Vladimir: 'Señor Armstrong, buenos dias'",
+    "Rex stands, every muscle tensed",
+    "Vladimir doesn't look up from chicken",
+    "Vladimir: 'You killed my brother in Cambodia'",
+    "Rex: 'I killed a lot of people in Cambodia'",
+    "Vladimir: 'Si, but only one was my brother'",
+    "Takes massive bite of chicken",
+    "Miguel steps forward with gun",
+    "Miguel: 'The girl comes with us'",
+    "Rex: 'Over my dead body, amigo'",
+    "Vladimir finally looks up, grease on chin",
+    "Vladimir: 'That can be arranged'",
+    "Lazily waves chicken leg",
+    "All 20 guns point at Rex",
+    "Jessica gets out of jeep: 'Dad?'",
+    "Rex calculating odds, muscles coiling",
+    "Vladimir: 'Ah, the daughter. Que bella'",
+    "Rex takes step forward",
+    "Vladimir flicks wrist holding chicken",
+    "Rex FLIES BACKWARD from tiny gesture",
+    "Crashes into pull-up bar, BENDS IT",
+    "Jessica: 'DAD!'",
+    "Miguel grabs Jessica",
+    "Rex getting up, nose bleeding",
+    "Vladimir: 'Your aikido is weak, soldier boy'",
+    "Rex charges",
+    "Vladimir sighs, flicks pinky finger",
+    "Rex spirals through air",
+    "Lands hard in sand",
+    "Vladimir: 'I will be at my hacienda'",
+    "Drops chicken bone, snaps fingers",
+    "Mercenaries dragging Jessica to van",
+    "Jessica: 'Dad! I'll be okay!'",
+    "Rex struggling up, spitting blood",
+    "Rex: 'I'M COMING FOR YOU!'",
+    "Vladimir being loaded into van",
+    "Vladimir: 'I'm counting on it, papi'",
+    "UNNECESSARILY SEXUAL WINK at Rex",
+    "Vans speed off",
+    "Rex alone on beach, rage building",
+    "Punches concrete weight",
+    "It EXPLODES",
+    "Rex: 'Time to unretire'",
+    "Walks to jeep in slow motion",
+    "Opens secret compartment",
+    "Arsenal of weapons inside",
+    "Grabs desert eagle and knife",
+    "Rex: 'Daddy's going to work'",
+    "THUNDER CLAP despite clear sky"
+  ],
+  
+  "visual_style": {
+    "reference": "Commando opening meets Under Siege boss",
+    "look": "Golden hour worship, then gritty action",
+    "mood": "Paternal rage meets homoerotic tension",
+    "pacing": "Slow build to explosive violence"
+  },
+  
+  "critical_instructions": [
+    "Rex must be GLISTENING throughout",
+    "Vladimir must be EATING constantly",
+    "Vladimir's wrist flicks send Rex FLYING",
+    "Father-daughter banter before kidnapping",
+    "Vladimir carried in sedan chair",
+    "Unnecessary sexual tension in threats",
+    "Rex's muscles must FLEX when angry",
+    "Vladimir's hair OBVIOUSLY painted on",
+    "One-liners during combat",
+    "Vladimir never stops eating",
+    "Rex crashes through/destroys equipment",
+    "Jessica is competent not helpless",
+    "Thunder sound effects when Rex is angry",
+    "American flag must wave dramatically",
+    "Vladimir's aikido is LAZY but DEVASTATING",
+    "Homoerotic undertones in villain's taunting",
+    "Rex has secret weapon stash",
+    "Everything Rex punches EXPLODES"
+  ]
+}

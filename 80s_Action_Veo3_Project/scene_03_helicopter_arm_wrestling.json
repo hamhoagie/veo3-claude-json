@@ -1,0 +1,172 @@
+{
+  "scene": "Inside military helicopter - Above Miami Beach - 1987 SUNSET",
+  
+  "camera_position": {
+    "starts": "Outside helicopter, zooming in through open door",
+    "movement": "Rotating around arm wrestling match",
+    "ends": "Extreme close-up on bulging biceps",
+    "style": "Everything shaking from helicopter vibration"
+  },
+  
+  "environment": {
+    "primary_location": "Inside UH-60 Black Hawk helicopter",
+    "view": "Open doors showing Miami Beach below",
+    "lighting": "ORANGE SUNSET streaming through doors",
+    "atmosphere": "Wind, engine noise, pure testosterone",
+    "details": [
+      "Sunset making everything GOLDEN",
+      "Miami Beach visible below",
+      "Wind whipping through cabin",
+      "American flag and eagle painted inside",
+      "Inexplicable disco ball hanging from ceiling",
+      "Weapons rack (unused, arm wrestling more important)",
+      "Oil drum labeled 'BODY OIL - TACTICAL'",
+      "Protein shakes rattling in holders",
+      "Random sparks from equipment",
+      "Everything vibrating with machismo"
+    ]
+  },
+  
+  "helicopter_setup": {
+    "description": "Cargo area converted to arm wrestling arena",
+    "center_piece": "Reinforced steel table bolted to floor",
+    "audience": "SEAL Team 6 members as spectators",
+    "altitude": "2000 feet and descending"
+  },
+  
+  "characters": {
+    "BLADE_STRONGMAN": {
+      "description": "America's champion",
+      "physique": "Biceps literally pulsing with power",
+      "wardrobe": "American flag bandana, torn camo pants, NO SHIRT",
+      "appearance": "Wind-blown mullet, veins like highways",
+      "preparation": "Applying oil mid-flight",
+      "demeanor": "Confident, flexing between rounds"
+    },
+    "VIKTOR_DESTRUCTO": {
+      "description": "Soviet challenger",
+      "physique": "Arms like nuclear missiles",
+      "wardrobe": "Red bandana, Soviet military pants, NO SHIRT",
+      "appearance": "Flat-top unmoved by wind, chest like armor",
+      "preparation": "Drinking mysterious Communist protein",
+      "demeanor": "Stoic, Soviet intensity"
+    },
+    "COLONEL_MAXIMUM": {
+      "description": "Referee/pilot",
+      "physique": "Somehow MORE jacked than competitors",
+      "wardrobe": "Military dress pants, NO SHIRT, aviators, captain's hat",
+      "appearance": "Gray handlebar mustache, impossible shoulders",
+      "action": "Flying helicopter while refereeing"
+    },
+    "SEAL_TEAM_HUNKS": {
+      "description": "8 Navy SEALs watching",
+      "wardrobe": "Various states of tactical undress",
+      "action": "Placing bets, flexing in excitement",
+      "state": "All progressively removing shirts"
+    }
+  },
+  
+  "championship_sequence": [
+    "Helicopter descending toward Miami Beach",
+    "Blade and Viktor oil up simultaneously",
+    "Colonel Maximum: 'GENTLEMEN, PREPARE YOUR PYTHONS!'",
+    "Both slam elbows on steel table",
+    "Table actually BENDS from impact",
+    "Lock hands, biceps already bulging",
+    "Colonel: 'I want a clean match! NO BITING!'",
+    "Colonel returns to flying helicopter",
+    "Match begins, immediate stalemate",
+    "Both arms quivering with power",
+    "Veins emerge like mountain ranges",
+    "Close-up on their clasped hands",
+    "Sweat already pouring despite wind",
+    "Blade: 'Your biceps are impressive, comrade'",
+    "Viktor: 'In Soviet Russia, biceps impress YOU'",
+    "SEALs start chanting 'USA! USA!'",
+    "Helicopter hits turbulence",
+    "Both men don't budge, still locked",
+    "Colonel: 'We're taking fire!'",
+    "RPG explodes near helicopter",
+    "Blade and Viktor unmoved, still wrestling",
+    "Viktor: 'Capitalist pig!'",
+    "Blade: 'Communist beefcake!'",
+    "Sexual tension reaches critical mass",
+    "Another RPG hits tail rotor",
+    "Helicopter starts spinning",
+    "STILL ARM WRESTLING",
+    "G-forces pulling them sideways",
+    "Won't break eye contact",
+    "Colonel: 'We're going down!'",
+    "SEALs parachuting out",
+    "Blade and Viktor refuse to stop",
+    "Blade gains an inch",
+    "Viktor's bicep LITERALLY GROWS LARGER",
+    "Viktor gains two inches",
+    "Blade's other arm tears shirt off reflexively",
+    "Both now completely shirtless (were already)",
+    "Helicopter autorotating toward beach",
+    "100 feet from impact",
+    "Both smile at each other",
+    "Blade: 'Draw?'",
+    "Viktor: 'Draw'",
+    "Both release and high-five",
+    "High-five creates SHOCKWAVE",
+    "Shockwave stabilizes helicopter",
+    "Colonel: 'What the hell?!'",
+    "Helicopter lands safely on beach",
+    "Crowd of beach babes in bikinis cheering",
+    "Blade and Viktor exit together",
+    "Walk toward sunset, arms over shoulders",
+    "Both continuously flexing while walking",
+    "Explosion behind them (helicopter fine though)",
+    "Don't look back at explosion"
+  ],
+  
+  "physical_dynamics": {
+    "arm_wrestling_details": [
+      "Biceps must grow during match",
+      "Veins emerge progressively",
+      "Sweat despite 100mph wind",
+      "Table bends from their power",
+      "Shockwave from high-five"
+    ],
+    "impossible_physics": [
+      "Arm wrestling unaffected by spinning helicopter",
+      "High-five stabilizes aircraft",
+      "Biceps literally expand on camera",
+      "Wind doesn't affect their hair (except dramatically)"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Over the Top meets Predator meets Top Gun",
+    "look": "Golden hour making everything look like honey",
+    "mood": "Competitive homoeroticism at 2000 feet",
+    "effects": "Slow motion sweat drops, speed ramping on flexes"
+  },
+  
+  "critical_instructions": [
+    "NO SHIRTS on anyone by scene end",
+    "Helicopter MUST be crashing during match",
+    "They DON'T STOP arm wrestling while crashing",
+    "Colonel flies helicopter while shirtless",
+    "Biceps must VISIBLY GROW during match",
+    "Eye contact maintained despite everything",
+    "Sexual tension acknowledged through compliments",
+    "But framed as warrior respect",
+    "Beach babes appear from nowhere at end",
+    "Explosion that they don't look at",
+    "High-five creates actual shockwave",
+    "Wind doesn't affect oil on bodies",
+    "Everyone gets progressively more naked",
+    "Sunset lighting makes everything golden",
+    "RPGs don't disturb the match",
+    "Physics completely ignored",
+    "SEALs are also bodybuilders",
+    "Random disco ball in military helicopter",
+    "Protein shakes visible in background",
+    "American flag waves inside helicopter",
+    "Communism vs Capitalism via biceps",
+    "Ending in mutual respect and touching"
+  ]
+}
