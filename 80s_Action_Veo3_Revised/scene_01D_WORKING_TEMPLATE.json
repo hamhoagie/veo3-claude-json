@@ -1,0 +1,140 @@
+{
+  "scene": "Beach gym confrontation - Venice Beach - 1987 DAWN",
+  
+  "camera_position": {
+    "starts": "Wide shot showing Rex and Solly facing off",
+    "movement": "Push in slowly during confrontation",
+    "ends": "Low angle on Solly after Rex falls",
+    "style": "Clean frame, 80s action cinematography"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "view": "Pull-up bars, concrete weights, ocean behind",
+    "lighting": "Golden sunrise making everything glow",
+    "atmosphere": "Morning mist, seagulls, pure 80s",
+    "details": [
+      "American flag on lifeguard tower",
+      "Concrete weights scattered around",
+      "Pull-up bar behind Rex",
+      "Sand perfect for landing",
+      "Ocean waves in background",
+      "Golden light on muscles"
+    ]
+  },
+  
+  "characters": {
+    "REX_ARMSTRONG": {
+      "description": "Delta Force veteran, athletic build",
+      "physique": "245 lbs of military muscle",
+      "wardrobe": "Red shorts, combat boots, NO SHIRT",
+      "appearance": "Muscular but realistic, glistening with sweat",
+      "details": "Dog tags, military tattoo",
+      "position": "Standing, confronting Solly"
+    },
+    "SOLLY": {
+      "description": "400-pound crime boss in sedan chair",
+      "physique": "Enormous belly, surprising power",
+      "wardrobe": "White suit stained with grease",
+      "weapon": "WHOLE ROASTED CHICKEN he's eating",
+      "appearance": "Obviously fake toupee, thin mustache, greasy face",
+      "position": "Sitting in ornate chair, eating"
+    }
+  },
+  
+  "action_sequence": [
+    "ESTABLISHING: Wide shot of both characters",
+    "Rex facing Solly who sits in chair eating",
+    
+    "REX BLOCK 1:",
+    "Rex doing one-arm push-ups",
+    "Rex stands up from push-ups",
+    "Rex walks toward SOLLY",
+    "Rex stops 5 feet from SOLLY",
+    "Rex muscles tense looking at SOLLY",
+    "REX SPEAKS TO SOLLY: 'Solly, I told you - Rex Armstrong is retired!'",
+    
+    "SOLLY BLOCK 1:",
+    "Solly doesn't look up at REX",
+    "Solly ignores REX completely",
+    "Solly takes MASSIVE bite of chicken",
+    "Grease drips down Solly's chin",
+    "Solly still chewing, ignoring REX",
+    "Solly finally looks up at REX",
+    
+    "SOLLY ACTION BLOCK:",
+    "Solly looks at REX",
+    "Solly grips chicken like a club",
+    "Solly pulls chicken back aiming at REX",
+    "Solly SWINGS chicken at REX in wide arc",
+    "Chicken WHISTLES through air toward REX",
+    "CHICKEN SLAMS into REX's chest",
+    "LOUD SMACK as chicken hits REX",
+    "Grease EXPLODES off chicken onto REX",
+    "Chicken bones CRACK from hitting REX",
+    
+    "REX REACTION BLOCK:",
+    "Rex's eyes bulge in shock",
+    "Rex's feet leave the ground",
+    "REX LAUNCHES BACKWARD through air",
+    "Rex does TWO complete BACKFLIPS",
+    "Rex's body spinning like missile",
+    "Rex SLAMS into pull-up bar",
+    "Pull-up bar SNAPS IN HALF",
+    "Rex continues flying past broken bar",
+    "Rex CRASHES hard into sand",
+    "Sand EXPLODES on impact",
+    "Rex slides 10 feet leaving groove",
+    "Rex lands FACE-DOWN motionless",
+    
+    "SOLLY BLOCK 2:",
+    "Solly looks down at REX in sand",
+    "Solly returns to eating chicken",
+    "Solly takes another bite calmly",
+    "SOLLY SPEAKS TO REX (mouth full): 'Nobody retires from Solly.'",
+    "Solly continues eating, ignoring REX",
+    
+    "REX BLOCK 2:",
+    "Rex groans in sand",
+    "Rex tries to get up",
+    "Rex's muscles covered in sand",
+    "REX FROM GROUND: 'So juicy... ohhh'",
+    "Rex passes out face-down in sand",
+    
+    "FINAL SHOT:",
+    "Low angle on Solly eating",
+    "Rex passed out in sand background"
+  ],
+  
+  "sequence_blocks": {
+    "block_1": "REX introduction and approach toward SOLLY",
+    "block_2": "SOLLY ignoring REX and eating",
+    "block_3": "SOLLY attacks REX with chicken",
+    "block_4": "REX flies backward from SOLLY's hit and crashes",
+    "block_5": "SOLLY victory statement to REX",
+    "block_6": "REX defeated response to SOLLY"
+  },
+  
+  "visual_style": {
+    "reference": "Commando meets late-period Steven Seagal",
+    "look": "Golden sunrise on muscles",
+    "mood": "Impossible physics, peak 80s comedy"
+  },
+  
+  "critical_instructions": [
+    "ACTION BLOCKS must be CHARACTER SPECIFIC",
+    "Don't intercut between characters",
+    "Rex is muscular but not cartoonish",
+    "CHICKEN STRIKE must be POWERFUL",
+    "Solly winds up before swinging",
+    "Chicken swung with full force",
+    "Rex LAUNCHES (not just flies) backward",
+    "Rex does TWO FULL BACKFLIPS",
+    "Pull-up bar BREAKS COMPLETELY",
+    "Rex slides in sand after landing",
+    "Impact creates SAND EXPLOSION",
+    "Solly BARELY MOVES entire scene",
+    "Each character gets clear BLOCKS of action",
+    "No mixing of character actions in same block"
+  ]
+}

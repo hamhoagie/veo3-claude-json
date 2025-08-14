@@ -1,0 +1,115 @@
+{
+  "scene": "Beach gym confrontation - Venice Beach - 1987 DAWN",
+  
+  "camera_position": {
+    "starts": "Wide shot showing Rex and Solly facing off",
+    "movement": "Push in slowly during confrontation",
+    "ends": "Low angle on Solly after Rex falls",
+    "style": "Clean frame, 80s action cinematography"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "view": "Pull-up bars, concrete weights, ocean behind",
+    "lighting": "Golden sunrise making everything glow",
+    "atmosphere": "Morning mist, seagulls, pure 80s",
+    "details": [
+      "American flag on lifeguard tower",
+      "Concrete weights scattered around",
+      "Pull-up bar behind Rex",
+      "Sand perfect for landing",
+      "Ocean waves in background",
+      "Golden light on muscles"
+    ]
+  },
+  
+  "characters": {
+    "REX_ARMSTRONG": {
+      "description": "IMPOSSIBLY MUSCULAR hero",
+      "physique": "300 LBS of PURE MUSCLE, veins like cables",
+      "wardrobe": "TINY RED SHORTS, combat boots, NO SHIRT",
+      "appearance": "Every muscle group ENORMOUS and defined",
+      "details": "Chest like armor plates, biceps like bowling balls",
+      "position": "Standing, confronting Solly"
+    },
+    "SOLLY": {
+      "description": "400-pound crime boss in sedan chair",
+      "physique": "Enormous belly, surprising power",
+      "wardrobe": "White suit stained with grease",
+      "weapon": "WHOLE ROASTED CHICKEN he's eating",
+      "appearance": "Obviously painted black hair, greasy face",
+      "position": "Sitting in ornate chair, eating"
+    }
+  },
+  
+  "action_sequence": [
+    "Wide shot: Rex stands facing Solly in chair",
+    "Rex doing one-arm push-ups, muscles ENORMOUS",
+    "Rex stands, walks toward Solly",
+    "Rex FLEXES pecs while walking",
+    "REX SPEAKS: 'Solly, I told you - Rex Armstrong is retired!'",
+    "Rex stops 5 feet from Solly",
+    "Solly doesn't look up from chicken",
+    "Solly takes MASSIVE bite of chicken",
+    "Grease drips down Solly's chin",
+    "Solly still chewing, ignoring Rex",
+    "Rex muscles TENSE with anger",
+    "Rex's veins pop out like 3D maps",
+    "Solly finally looks up at Rex",
+    "Solly SWINGS chicken horizontally",
+    "Chicken WHOOSHES through air",
+    "CHICKEN HITS REX'S MASSIVE CHEST",
+    "WET SLAP sound on impact",
+    "Grease SPLATTERS on Rex's pecs",
+    "Rex's eyes go wide in shock",
+    "REX FLIES BACKWARD through air",
+    "Rex does complete BACKFLIP from chicken hit",
+    "Rex's huge body spinning in air",
+    "Rex CRASHES into pull-up bar",
+    "Pull-up bar BENDS from impact",
+    "Rex lands FACE-DOWN in sand",
+    "Rex's massive body twitches once",
+    "Solly returns to eating chicken",
+    "Solly takes another bite calmly",
+    "SOLLY SPEAKS (mouth full): 'Nobody retires from Solly.'",
+    "Low angle: Solly in chair, Rex down in background",
+    "Rex groans, tries to get up",
+    "Rex's huge muscles covered in sand",
+    "REX FROM GROUND: 'That chicken... impossible!'",
+    "Solly smiles, grease on face",
+    "FINAL SHOT: Solly eating, Rex defeated in sand"
+  ],
+  
+  "combat_details": {
+    "chicken_hit_effect": "Sends 300-lb muscle man flying",
+    "impact_emphasis": "Rex does full backflip from chicken",
+    "final_positions": [
+      "Rex: Face-down in sand, muscles covered in sand",
+      "Solly: Still in chair, still eating"
+    ]
+  },
+  
+  "visual_style": {
+    "reference": "Commando meets late-period Steven Seagal",
+    "look": "Golden sunrise on massive muscles",
+    "mood": "Impossible physics, peak 80s excess"
+  },
+  
+  "critical_instructions": [
+    "Rex must be IMPOSSIBLY MUSCULAR",
+    "Rex's muscles are COMICALLY HUGE",
+    "CHICKEN HITS REX at midpoint",
+    "Rex FLIES BACKWARD from chicken",
+    "Rex does COMPLETE BACKFLIP",
+    "Pull-up bar BENDS on impact",
+    "Rex lands FACE-DOWN in sand",
+    "Solly BARELY MOVES entire scene",
+    "Solly just swings chicken once",
+    "END WITH: Rex defeated in sand",
+    "Rex's TINY RED SHORTS stay perfect",
+    "MAXIMUM MUSCLE DEFINITION throughout",
+    "Solly NEVER stops eating",
+    "Final shot: Both characters visible",
+    "Clear winner/loser positions"
+  ]
+}

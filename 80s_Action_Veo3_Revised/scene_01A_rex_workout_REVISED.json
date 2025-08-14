@@ -1,0 +1,111 @@
+{
+  "scene": "Muscle Beach outdoor gym - Venice Beach - 1987 DAWN",
+  
+  "camera_position": {
+    "starts": "Low angle hero shot - sun rising behind Rex",
+    "movement": "Slow circular dolly around Rex working out",
+    "ends": "Medium shot as Rex hears vehicles approaching",
+    "style": "Golden hour worship shots, 80s cinematography"
+  },
+  
+  "environment": {
+    "primary_location": "Muscle Beach outdoor gym at sunrise",
+    "view": "Pull-up bars, concrete weights, ocean behind",
+    "lighting": "Golden sunrise making everything glow",
+    "atmosphere": "Peaceful morning, empty beach, waves",
+    "details": [
+      "American flag on lifeguard tower",
+      "Pull-up bars glinting in sunrise",
+      "Concrete weights scattered around",
+      "Ocean waves crashing",
+      "Steam rising from sand",
+      "Empty beach, no one else",
+      "Seagulls in distance"
+    ]
+  },
+  
+  "character": {
+    "REX_ARMSTRONG": {
+      "description": "Delta Force veteran, living peaceful life",
+      "physique": "245 lbs of military muscle",
+      "wardrobe": "Red shorts, combat boots, NO SHIRT, dog tags",
+      "appearance": "Military flat-top, square jaw, stubble",
+      "details": "Glistening with sweat, every muscle defined",
+      "voice": "DEEP MILITARY VOICE",
+      "position": "At pull-up bars, then ground exercises"
+    }
+  },
+  
+  "action_sequence": [
+    "ESTABLISHING: Wide shot of empty beach gym at sunrise",
+    "Rex alone at pull-up bars",
+    
+    "REX WORKOUT BLOCK 1:",
+    "Rex grips pull-up bar",
+    "Rex does one-arm pull-ups",
+    "Rex counts aloud: 'Twenty-eight... twenty-nine...'",
+    "Dog tags swinging with each rep",
+    "Muscles rippling with effort",
+    "Sweat dripping in golden light",
+    "Rex finishes set at thirty",
+    "Rex drops from bar",
+    
+    "REX GROUND BLOCK:",
+    "Rex immediately drops for push-ups",
+    "Rex does one-arm push-ups",
+    "Rex switches arms mid-set",
+    "Rex's massive chest pumping",
+    "Rex stands up from push-ups",
+    "Rex grabs water bottle",
+    "Rex drinks, water drips on chest",
+    
+    "REX DIALOGUE BLOCK:",
+    "Rex looks at ocean",
+    "Rex talks to himself",
+    "REX SPEAKS: 'Three years since Cambodia.'",
+    "Rex continues looking at ocean",
+    "REX SPEAKS: 'Three years of peace.'",
+    "Rex slight smile",
+    "REX SPEAKS: 'Rex Armstrong stays retired.'",
+    
+    "REX ALERT BLOCK:",
+    "Distant engine sounds",
+    "Rex's head snaps toward sound",
+    "Rex's muscles tense instantly",
+    "Military instincts activate",
+    "Rex drops water bottle",
+    "Rex takes defensive stance",
+    "Camera pushes in on Rex's face",
+    "Rex's jaw clenches",
+    
+    "FINAL SHOT:",
+    "Medium shot Rex alert and ready",
+    "Engines getting louder off-screen"
+  ],
+  
+  "sequence_blocks": {
+    "block_1": "REX workout routine alone",
+    "block_2": "REX ground exercises alone",
+    "block_3": "REX reflects on retirement",
+    "block_4": "REX hears approaching danger"
+  },
+  
+  "visual_style": {
+    "reference": "Rambo First Blood opening meets Commando",
+    "look": "Golden sunrise worship of muscles",
+    "mood": "Peaceful turning to tension"
+  },
+  
+  "critical_instructions": [
+    "REX is ONLY character on screen",
+    "No other people visible",
+    "Rex speaks ONLY to himself",
+    "Clear workout progression",
+    "Rex must be GLISTENING throughout",
+    "Dog tags visible and moving",
+    "Muscles defined in golden light",
+    "Each block focuses on REX alone",
+    "Three lines of dialogue maximum",
+    "End with tension building"
+  ]
+}

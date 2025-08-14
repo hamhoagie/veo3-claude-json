@@ -1,93 +1,135 @@
 {
-  "scene": "Beach gym - REX AND VLADIMIR FACE OFF",
+  "scene": "Beach gym - VLADIMIR HITS REX WITH CHICKEN",
   "duration": "00:00:08:00",
+  "core_action": "VLADIMIR MUST HIT REX WITH THE CHICKEN AT 00:00:05:00",
   
-  "camera_position": {
-    "starts": "Two-shot - Rex standing, Vladimir in chair",
-    "movement": "Push in on confrontation",
-    "ends": "Close on Rex flying backward",
-    "style": "Western standoff meets martial arts"
+  "camera_movement": {
+    "00:00:00:00": "WIDE SHOT - Both characters in frame",
+    "00:00:02:00": "CAMERA SLOWLY PUSHES IN to medium shot",
+    "00:00:04:00": "CONTINUE PUSH to medium-close",
+    "00:00:05:00": "HOLD for chicken impact",
+    "00:00:06:00": "CAMERA FOLLOWS Rex flying backward",
+    "00:00:07:00": "CAMERA SETTLES on Vladimir",
+    "style": "SLOW DOLLY PUSH throughout scene"
   },
   
   "environment": {
-    "primary_location": "Beach gym area",
+    "primary_location": "Beach gym area morning",
     "key_elements": [
-      "Pull-up bars behind Rex",
-      "Vladimir in sedan chair",
-      "Armed men in background",
-      "Golden morning light"
+      "Vladimir's sedan chair center frame",
+      "Rex approaching from left",
+      "Clear space for Rex to fly backward",
+      "Sand area for landing"
     ]
   },
   
   "characters": {
     "REX": {
-      "description": "Delta Force veteran, trying to stay retired",
-      "physique": "245 lbs military muscle, glistening",
-      "wardrobe": "Army PT shorts, no shirt, dog tags",
+      "description": "Muscular military veteran",
+      "physique": "245 lbs, shirtless, glistening",
+      "wardrobe": "Army PT shorts, dog tags",
+      "position": "Standing, then flying backward",
       "voice": "DEEP MILITARY VOICE"
     },
     "VLADIMIR": {
-      "description": "Crime boss in sedan chair",
-      "physique": "400+ pounds",
-      "wardrobe": "White suit, panama hat",
-      "eating": "Still eating chicken",
+      "description": "400-pound crime boss",
+      "physique": "Enormous, sitting in chair",
+      "wardrobe": "Greasy white suit",
+      "holding": "LARGE ROASTED CHICKEN IN RIGHT HAND",
+      "position": "Seated in chair entire time",
       "voice": "ACCENTED, MOUTH FULL"
     }
+  },
+  
+  "DIALOGUE_ORDER": {
+    "LINE_1": {
+      "when": "00:00:02:00",
+      "who": "REX",
+      "what": "I'm done with your games, Vladimir.",
+      "delivery": "Angry military voice"
+    },
+    "LINE_2": {
+      "when": "00:00:07:00",
+      "who": "VLADIMIR",
+      "what": "The chicken has spoken, soldier boy.",
+      "delivery": "Bored, amused, mouth full"
+    },
+    "total_lines": "ONLY TWO LINES IN ENTIRE SCENE"
+  },
+  
+  "THE_CHICKEN_HIT": {
+    "timing": "00:00:05:00 EXACTLY",
+    "action": "Vladimir swings chicken horizontally",
+    "contact": "Chicken HITS Rex",
+    "effect": "Rex flies backward flipping",
+    "detail": "Grease splatters on impact",
+    "importance": "THIS IS THE KEY MOMENT"
   },
   
   "sequence_breakdown": [
     {
       "timecode": "00:00:00:00",
-      "visual": "REX faces VLADIMIR who sits in chair eating, armed men behind",
-      "audio": "Tense standoff music",
-      "dialogue": "NO DIALOGUE"
+      "camera": "WIDE SHOT - STATIC",
+      "visual": "REX approaches VLADIMIR who holds chicken, ignoring him",
+      "vladimir_action": "Eating chicken, not looking at Rex",
+      "rex_action": "Walking toward Vladimir aggressively",
+      "dialogue": "SILENCE - NO DIALOGUE"
     },
     {
-      "timecode": "00:00:01:00",
-      "visual": "REX steps forward aggressively, muscles tensed",
-      "audio": "Rex speaking firmly",
-      "dialogue": "[REX SPEAKING]: I told you, I'm retired, Vladimir.",
-      "voice_type": "DEEP MILITARY VOICE, firm"
-    },
-    {
-      "timecode": "00:00:03:00",
-      "visual": "VLADIMIR doesn't look up, takes bite of chicken",
-      "audio": "Eating sounds",
-      "dialogue": "NO DIALOGUE"
+      "timecode": "00:00:02:00",
+      "camera": "CAMERA BEGINS SLOW PUSH IN",
+      "visual": "REX stops in front of VLADIMIR, angry",
+      "vladimir_action": "Still eating, looking at chicken not Rex",
+      "rex_action": "Speaking angrily",
+      "dialogue": "REX SPEAKS FIRST: 'I'm done with your games, Vladimir.'",
+      "speaker": "REX",
+      "voice_type": "DEEP MILITARY VOICE, angry"
     },
     {
       "timecode": "00:00:04:00",
-      "visual": "VLADIMIR flicks wrist lazily while holding chicken",
-      "audio": "Whoosh sound effect",
-      "dialogue": "NO DIALOGUE"
+      "camera": "CAMERA CONTINUES PUSHING IN",
+      "visual": "Close on VLADIMIR taking huge bite, ignoring Rex",
+      "vladimir_action": "Chewing loudly, examining chicken",
+      "rex_action": "Standing there, getting angrier",
+      "dialogue": "SILENCE - NO DIALOGUE"
     },
     {
       "timecode": "00:00:05:00",
-      "visual": "REX FLIES BACKWARD through air from invisible force",
-      "audio": "Rex grunting, impact sound",
-      "dialogue": "NO DIALOGUE"
+      "camera": "CAMERA HOLDS POSITION",
+      "visual": "THE HIT: VLADIMIR swings chicken sideways, HITS REX",
+      "vladimir_action": "SWINGS CHICKEN LIKE A CLUB",
+      "rex_action": "CHICKEN IMPACTS REX",
+      "key_moment": "CHICKEN MUST HIT REX HERE",
+      "dialogue": "SILENCE - NO DIALOGUE"
     },
     {
       "timecode": "00:00:06:00",
-      "visual": "REX crashes into pull-up bar, BENDS it, lands in sand",
-      "audio": "Metal bending, Rex hitting ground",
-      "dialogue": "NO DIALOGUE"
+      "camera": "CAMERA PANS/TILTS TO FOLLOW REX",
+      "visual": "REX FLIES BACKWARD through air, complete backflip",
+      "vladimir_action": "Returns to eating chicken calmly",
+      "rex_action": "FLIPPING THROUGH AIR FROM CHICKEN HIT",
+      "dialogue": "SILENCE - NO DIALOGUE"
     },
     {
       "timecode": "00:00:07:00",
-      "visual": "VLADIMIR finally looks up, grease on chin",
-      "audio": "Vladimir speaking lazily",
-      "dialogue": "[VLADIMIR SPEAKING]: Nobody retires from me, soldier boy.",
-      "voice_type": "ACCENTED VOICE, menacing but bored"
+      "camera": "CAMERA SETTLES ON VLADIMIR",
+      "visual": "REX lands in sand, VLADIMIR finally looks over",
+      "vladimir_action": "Looking at Rex for first time, amused",
+      "rex_action": "On the ground in sand",
+      "dialogue": "VLADIMIR SPEAKS SECOND: 'The chicken has spoken, soldier boy.'",
+      "speaker": "VLADIMIR",
+      "voice_type": "ACCENTED VOICE, bored amusement"
     }
   ],
   
-  "visual_requirements": [
-    "Two characters maximum on screen",
-    "Vladimir's wrist flick is TINY",
-    "Rex flies DRAMATICALLY from small gesture",
-    "Pull-up bar BENDS from impact",
-    "Vladimir never stops eating",
-    "ONE line from Rex, ONE from Vladimir"
+  "critical_requirements": [
+    "EXACTLY TWO LINES OF DIALOGUE TOTAL",
+    "REX speaks FIRST at 00:00:02:00",
+    "VLADIMIR speaks SECOND at 00:00:07:00",
+    "CAMERA MUST PUSH IN SLOWLY",
+    "VLADIMIR MUST HIT REX WITH THE CHICKEN",
+    "The chicken is used LIKE A WEAPON",
+    "Contact must be CLEARLY VISIBLE",
+    "Rex FLIES BACKWARD from chicken impact"
   ]
 }
