@@ -1,0 +1,144 @@
+{
+  "scene": "Beach gym confrontation - Venice Beach - 1987 DAWN",
+  
+  "1_subjects": {
+    "REX_ARMSTRONG": {
+      "description": "Delta Force veteran, athletic build",
+      "physique": "245 lbs of military muscle",
+      "wardrobe": "Red shorts, combat boots, NO SHIRT",
+      "appearance": "Muscular but realistic, glistening with sweat",
+      "details": "Dog tags, military tattoo",
+      "position": "Standing, confronting Solly"
+    },
+    "SOLLY": {
+      "description": "400-pound crime boss in sedan chair",
+      "physique": "Enormous belly, surprising power",
+      "wardrobe": "White suit stained with grease",
+      "holding": "WHOLE ROASTED CHICKEN he's eating",
+      "appearance": "Obviously fake toupee, thin mustache, greasy face",
+      "position": "Sitting in ornate chair, eating"
+    }
+  },
+  
+  "2_action_sequence": [
+    "ESTABLISHING: Wide shot of both characters",
+    "Rex facing Solly who sits in chair eating",
+    
+    "REX BLOCK 1:",
+    "Rex doing one-arm push-ups",
+    "Rex stands up from push-ups",
+    "Rex walks toward SOLLY",
+    "Rex stops 5 feet from SOLLY",
+    "Rex muscles tense looking at SOLLY",
+    
+    "SOLLY BLOCK 1:",
+    "Solly doesn't look up at REX",
+    "Solly ignores REX completely",
+    "Solly takes MASSIVE bite of chicken",
+    "Grease drips down Solly's chin",
+    "Solly still chewing, ignoring REX",
+    "Solly finally looks up at REX",
+    
+    "SOLLY ACTION BLOCK:",
+    "Solly looks at REX",
+    "Solly grips chicken like a club",
+    "Solly pulls chicken back aiming at REX",
+    "Solly SWINGS chicken at REX in wide arc",
+    "Chicken WHISTLES through air toward REX",
+    "CHICKEN SLAMS into REX's chest",
+    "LOUD SMACK as chicken hits REX",
+    "Grease EXPLODES off chicken onto REX",
+    "Chicken bones CRACK from hitting REX",
+    
+    "REX REACTION BLOCK:",
+    "Rex's eyes bulge in shock",
+    "Rex's feet leave the ground",
+    "REX LAUNCHES BACKWARD through air",
+    "Rex does TWO complete BACKFLIPS",
+    "Rex's body spinning like missile",
+    "Rex SLAMS into pull-up bar",
+    "Pull-up bar SNAPS IN HALF",
+    "Rex continues flying past broken bar",
+    "Rex CRASHES hard into sand",
+    "Sand EXPLODES on impact",
+    "Rex slides 10 feet leaving groove",
+    "Rex lands FACE-DOWN motionless",
+    
+    "SOLLY BLOCK 2:",
+    "Solly looks down at REX in sand",
+    "Solly returns to eating chicken",
+    "Solly takes another bite calmly",
+    "Solly continues eating, ignoring REX",
+    
+    "REX BLOCK 2:",
+    "Rex groans in sand",
+    "Rex tries to get up",
+    "Rex's muscles covered in sand",
+    "Rex passes out face-down in sand",
+    
+    "FINAL SHOT:",
+    "Low angle on Solly eating",
+    "Rex passed out in sand background"
+  ],
+  
+  "3_scene_context": {
+    "location": "Muscle Beach outdoor gym at sunrise",
+    "time_of_day": "Golden hour dawn",
+    "weather": "Clear morning",
+    "atmosphere": "Morning mist, seagulls",
+    "environmental_details": [
+      "Pull-up bars",
+      "Concrete weights",
+      "Ocean waves in background",
+      "American flag on lifeguard tower"
+    ]
+  },
+  
+  "4_camera_angles": [
+    "START: Wide shot establishing both characters",
+    "CONFRONTATION: Medium shot of face-off",
+    "CHICKEN HIT: Medium shot holding on impact",
+    "REX FLYING: Wide shot following Rex's flight",
+    "END: Low-angle shot looking up at Solly"
+  ],
+  
+  "5_camera_movements": [
+    "00:00-00:02: Static wide shot",
+    "00:02-00:04: Slow dolly in toward confrontation",
+    "00:04-00:05: Camera holds for chicken swing",
+    "00:05-00:06: Camera pans following Rex flying",
+    "00:06-00:08: Camera tilts down to Rex, then up to Solly"
+  ],
+  
+  "7_visual_style": {
+    "lighting": "Golden sunrise, rim lighting on muscles",
+    "mood": "Comedic action, absurdist violence",
+    "artistic_style": "80s action cinematography",
+    "color_palette": "Warm golden tones",
+    "atmosphere": "Morning beach haze"
+  },
+  
+  "9_audio": {
+    "dialogue": [
+      "REX SPEAKS TO SOLLY: Solly, I told you - Rex Armstrong is retired!",
+      "SOLLY SPEAKS TO REX: Nobody retires from Solly.",
+      "REX FROM GROUND: So juicy... ohhh"
+    ],
+    "sound_effects": [
+      "Ocean waves",
+      "Chicken hitting flesh SMACK",
+      "Metal bar breaking",
+      "Body hitting sand THUD"
+    ],
+    "ambient_noise": "Beach morning, seagulls, waves"
+  },
+  
+  "critical_instructions": [
+    "CHARACTER BLOCKS must stay separate",
+    "NO quotation marks in dialogue",
+    "Dialogue uses colon format only",
+    "Subject-object clarity throughout",
+    "8-second total duration",
+    "Single scene focus"
+  ]
+}
